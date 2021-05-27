@@ -6,25 +6,6 @@
     <description>Recent content in Categories on Dẫu Phải Giải Phẫu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Dẫu Phải Giải Phẫu](https://facebook.com/dauphaigiaiphau)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>design</title>
-      <link>/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/categories/development/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Copyright &amp;copy; 2021 [Dẫu Phải Giải Phẫu](https://facebook.com/dauphaigiaiphau)</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
