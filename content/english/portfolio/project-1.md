@@ -4,7 +4,7 @@ date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item1.jpg"
 categories: ["design","development"]
 description: "This is meta description."
-draft: true
+draft: false
 project_info:
 - name: "Client"
   icon: "fas fa-user"

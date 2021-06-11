@@ -1,6 +1,7 @@
 ---
 title : "NHẬN XÉT SAU KHOÁ HỌC"
 testimonial_slider:
+
 # slider item loop
 - name : "Micheal Clark"
   image : "images/clients/client1.jpg"

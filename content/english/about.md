@@ -1,6 +1,6 @@
 ---
 title : "ĐÀO SÂU CHUYÊN MÔN <br> VỚI <br> DẪU PHẢI GIẢI PHẪU"
-image : "images/backgrounds/portrait.jpg"
+image : "images/backgrounds/portrait.jpeg"
 # # button
 # button:
 #   enable : false
