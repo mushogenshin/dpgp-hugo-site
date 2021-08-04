@@ -19,11 +19,11 @@ student_info:
 
 ### • Bài tập thực hiện trong quá trình học:
 
-![kwon](/images/portfolio/HAA02_MinhHoang1.jpg)
+![kwon-assignment](/images/portfolio/HAA02_MinhHoang1.jpg)
 
-![kwon](/images/portfolio/HAA02_MinhHoang3.jpg)
+![kwon-assignment](/images/portfolio/HAA02_MinhHoang3.jpg)
 
-![kwon](/images/portfolio/HAA02_MinhHoang4.jpg)
+![kwon-assignment](/images/portfolio/HAA02_MinhHoang4.jpg)
 
 
 ### • Nhận xét sau khoá học:

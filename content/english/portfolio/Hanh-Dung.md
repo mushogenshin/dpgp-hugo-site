@@ -19,9 +19,9 @@ student_info:
 
 ### • Bài tập thực hiện trong quá trình học:
 
-![Hanh-Dung](/images/portfolio/HAA01_HanhDung.jpg)
+![Hanh-Dung-assignment](/images/portfolio/HAA01_HanhDung.jpg)
 
-![Hanh-Dung](/images/portfolio/HAA01_HanhDung2.jpg)
+![Hanh-Dung-assignment](/images/portfolio/HAA01_HanhDung2.jpg)
 
 
 

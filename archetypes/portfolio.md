@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-image: "images/portfolio/{{ replace .Name "-" "" }}.jpg"
-categories: ["HAA"]
+image: "images/portfolio/HAA??_{{ replace .Name "-" "" }}.jpg"
+categories: ["HAA??"]
 draft: false
 student_info:
 - name: "{{ replace .Name "-" " " }}"
@@ -19,7 +19,7 @@ student_info:
 
 ### • Bài tập thực hiện trong quá trình học:
 
-![{{ .Name }}](/images/portfolio/{{ replace .Name "-" "" }}.jpg)
+![{{ .Name }}-assignment](/images/portfolio/HAA??_{{ replace .Name "-" "" }}.jpg)
 
 
 
