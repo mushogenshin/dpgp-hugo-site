@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 image: "images/portfolio/{{ replace .Name "-" "" }}.jpg"
-categories: []
+categories: ["HAA"]
 draft: false
 student_info:
 - name: "{{ replace .Name "-" " " }}"
@@ -15,3 +15,12 @@ student_info:
   icon: "fas fa-link"
   content: "https://artstation.com/{{ .Name }}"
 ---
+
+
+### • Bài tập thực hiện trong quá trình học:
+
+![{{ .Name }}](/images/portfolio/{{ replace .Name "-" "" }}.jpg)
+
+
+
+### • Nhận xét sau khoá học:
