@@ -5,7 +5,7 @@ image: "images/portfolio/item1.jpg"
 categories: ["design","development"]
 description: "This is meta description."
 draft: false
-project_info:
+student_info:
 - name: "Client"
   icon: "fas fa-user"
   content: "John Doe"

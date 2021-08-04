@@ -16,29 +16,22 @@
       <div class="col-lg-4">
         <div class="bg-white sticky-top wow fadeInUp" data-wow-duration="1.5s" style="top: 80px;">
           <ul class="list-unstyled">
-            <li class="media mb-4">
-              <i class="mt-1 fas fa-calendar h2"></i>
-               <div class="ml-3">
-                 <h4>Date</h4>
-                 <div class="content">{{.PublishDate.Format "02 Jan, 2006"}}</div>
-               </div>
-             </li>
-             <li class="media mb-4">
-               <i class="mt-1 fas fa-folder h2"></i>
+              {{ range .Params.student_info }}
+              <li class="media mb-4">
+                {{ with .icon}}<i class="mt-1 {{.}} h2"></i>{{ end }}
                 <div class="ml-3">
-                  <h4>Tham gia các khoá</h4>
-                  <div class="content">{{range $i,$e:= .Params.categories }}{{if ne $i 0}},{{end}} {{.|title}}{{end}}</div>
+                  <h4>{{.name | markdownify}}</h4>
+                  <div class="content">{{.content | markdownify}}</div>
                 </div>
               </li>
-            {{ range .Params.project_info }}
-            <li class="media mb-4">
-             {{ with .icon}}<i class="mt-1 {{.}} h2"></i>{{ end }}
-              <div class="ml-3">
-                <h4>{{.name | markdownify}}</h4>
-                <div class="content">{{.content | markdownify}}</div>
-              </div>
-            </li>
-            {{ end }}
+              {{ end }}
+              <li class="media mb-4">
+                <i class="mt-1 fas fa-folder h2"></i>
+                 <div class="ml-3">
+                   <h4>Tham gia các khoá</h4>
+                   <div class="content">{{range $i,$e:= .Params.categories }}{{if ne $i 0}},{{end}} {{.|title}}{{end}}</div>
+                 </div>
+               </li>
           </ul>
         </div>
       </div>
