@@ -19,7 +19,7 @@ student_info:
 
 ### • Bài tập thực hiện trong quá trình học:
 
-![Hong-Lien-assignment](/images/portfolio/HAA01_HongLien.jpg)
+![Hong-Lien-assignment](/images/portfolio/HAA01_HongLien1.jpg)
 
 ![Hong-Lien-assignment](/images/portfolio/HAA01_HongLien2.jpg)
 
