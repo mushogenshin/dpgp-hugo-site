@@ -1,5 +1,6 @@
 ---
 title : "KHOÁ HỌC"
+draft: true
 service_list:
 # service item loop
 - name : "Giải Phẫu Cơ Thể Người"

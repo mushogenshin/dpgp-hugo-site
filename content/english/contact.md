@@ -1,5 +1,6 @@
 ---
 title : "LIÊN LẠC"
+draft: true
 bg_image: "images/backgrounds/contact-us-bg.jpg"
 form_action: "#" # works with https://formspree
 name: "Name"

@@ -140,11 +140,11 @@ pre = "#"
 url = "testimonial"
 weight = 5
 
-[[Languages.en.menu.main]]
-name = "Liên lạc"
-pre = "#"
-url = "contact"
-weight = 6
+# [[Languages.en.menu.main]]
+# name = "Liên lạc"
+# pre = "#"
+# url = "contact"
+# weight = 6
 
 [[Languages.en.menu.main]]
 name = "Blog"
