@@ -1,26 +1,26 @@
 ---
-title: ""
+title: "THỐNG KÊ VUI"
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
-- name : "HANDS TO WORK"
+- name : "NĂM DẠY"
   image : "images/icons/works.png"
-  count : "100"
+  count : "5"
   
 # funfacts item loop
-- name : "HAPPY CLIENT"
+- name : "HỌC VIÊN"
   image : "images/icons/happy.png"
   count : "200"
   
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "KHOÁ ANATOMY"
   image : "images/icons/project.png"
-  count : "250"
+  count : "17"
   
 # funfacts item loop
-- name : "CUPS OF COFFEE"
+- name : "WORKSHOP"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "9"
 
 
 # custom style

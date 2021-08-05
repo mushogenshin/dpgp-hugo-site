@@ -359,7 +359,7 @@
       <div class="testimonials-container col-lg-8 offset-lg-2">
         <h1 class="wow fadeInUp" data-wow-duration="1.5s">{{ .Title | markdownify }}</h1>
         <div class="owl-carousel owl-theme wow fadeInUp" data-wow-duration="1.5s">
-          {{ range .Params.testimonial_slider }}
+          {{ range .Params.testimonial_slider | shuffle | first 20 }}
           <div class="single-testimonial">
             <div class="testimonial-holder">
               <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name }}">
