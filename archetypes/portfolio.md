@@ -1,13 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-image: "images/portfolio/HAA??_{{ replace .Name "-" "" }}1.jpg"
-categories: [HAA?]
+image: "images/portfolio/HAA06_{{ replace .Name "-" "" }}1.jpg"
+categories: [HAA06]
 draft: false
 student_info:
 - name: "{{ replace .Name "-" " " }}"
   icon: "fas fa-user"
-  content: "https://facebook.com/{{ .Name }}"
+  content: "--facebook--"
 - name: "Công việc"
   icon: "fas fa-palette"
   content: "2D Artist"
@@ -19,7 +19,7 @@ student_info:
 
 ##### • Bài tập thực hiện trong quá trình học:
 
-![{{ .Name }}-assignment](/images/portfolio/HAA?_{{ replace .Name "-" "" }}2.jpg)
+![{{ .Name }}-assignment](/images/portfolio/HAA06_{{ replace .Name "-" "" }}2.jpg)
 
 
 

@@ -20,7 +20,9 @@ student_info:
 ##### • Bài tập thực hiện trong quá trình học:
 
 ![Thanh-Huy-assignment](/images/portfolio/HAA01_HuyNguyen2.jpg)
+
 ![Thanh-Huy-assignment](/images/portfolio/HAA01_HuyNguyen3.jpg)
+
 ![Thanh-Huy-assignment](/images/portfolio/HAA01_HuyNguyen4.jpg)
 
 

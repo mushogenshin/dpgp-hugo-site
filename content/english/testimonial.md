@@ -3,7 +3,7 @@ title: "NHẬN XÉT SAU KHOÁ HỌC"
 testimonial_slider:
   - name: "Châu Võ Bá Trường"
     image: "images/students/ChauVoBaTruong.jpg"
-    designation: "Rigger, Sculptor"
+    designation: "Rigger, Digital Sculptor"
     content: "Workshop anatomy mới. Ai muốn upgrade level thì tham gia học nhé. Video + hình ảnh trực quan, chi tiết, dễ hiểu, feedback tận tình. Recommended! Anh Hoan cũng chính là Technical Artist của BlueR & SPARX* nên bạn nào có thắc mắc CG/ modeling/ rigging thì… hí hí')"
 
   - name: "NH Mỹ Ngọc"
@@ -16,19 +16,19 @@ testimonial_slider:
     designation: "Sculptor & 3D Artist"
     content: "Ngày cuối của 8 tuần nhức não với Anatomy của thầy Trọng Hoan. Khoá học dành cho các bạn artists nhưng mình nghĩ ai cũng nên trang bị kiến thức này. Nó giúp mình hiểu về cơ thể mình hơn, học xong khoá học mình cảm thấy cơ thể này thật quý báu. Với lượng kiến thức khổng lồ và sự nhiệt huyết của Thầy Trọng Hoan đã giúp mình có thêm một nền tảng tốt hơn để đi sâu hơn nữa về nghiên cứu giải phẫu. Các bạn làm sculpt, animation, characters … hay các bạn làm về cấu trúc, nghệ thuật thì đều cần trang bị kiến thức này là điều tiên quyết. Hãy tham gia khoá giải phẫu nhé."
 
-  - name: "Bành Minh Hoàng"
+  - name: "Minh Hoàng"
     image: "images/students/BanhMinhHoang.jpg"
     designation: "2D Artist & Concept Designer"
     content: "Wo`, sau khóa học thì mình thấy nó rất cần cho mọi người, ai có thể nên đăng kí học để sắp xếp lại các kiến thức về giải phẫu đã có hoặc ai chưa biết thì nên học luôn đừng ngại, cá nhân mình thấy rất tốt. Cái nữa là khối lượng kiến thức nhiều, vậy nên khi học nên học từ vựng chắc ngay từ những bài đầu để dễ đi sâu hơn về sau."
 
   - name: "Nguyễn Đức Cường"
     image: "images/students/student.jpg"
-    designation: "2D Artist"
+    designation: "2D Artist & Game Designer"
     content: "_Bạn có quá nhiều thời gian rảnh nhưng không biết dùng vào đâu?? _Bạn dốt tiếng Anh và tiếng Latin? trí nhớ kém nhưng lại muốn cân tất cả _Bạn đi tập gym nhưng không biết mấy cái bài tập này có tác dụng gì?? _Đây chính là khóa học giải phẫu dành cho bạn! ***Bonus giảng viên body đẹp cho nhiều bài thực hành nude painting tại lớp."
 
   - name: "Trần Đăng Khoa"
     image: "images/students/TranDangKhoa.jpg"
-    designation: "2D Artist & Instructor"
+    designation: "2D Artist & Instructor @CATUN Studio"
     content: "Giải phẫu mà học thầy Trọng Hoan thì siêu chuẩn rồi. Các bạn mại dô nhé!"
 
   - name: "Nguyễn Thị Bích Huệ"

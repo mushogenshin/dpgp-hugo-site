@@ -2,7 +2,7 @@
 title: "Bích Huệ"
 date: 2021-08-20T12:05:54+07:00
 image: "images/portfolio/HAA01_BichHue2.jpg"
-categories: [HAA01]
+categories: [HAA01, ZBL3_2019]
 draft: false
 student_info:
 - name: "Bích Huệ"
