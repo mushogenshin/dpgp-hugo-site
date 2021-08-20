@@ -7,17 +7,17 @@ draft: false
 student_info:
 - name: "Hạnh Dung"
   icon: "fas fa-user"
-  content: "https://facebook.com/Hanh-Dung"
+  # content: "https://www.facebook.com/handdeo"
 - name: "Công việc"
   icon: "fas fa-palette"
-  content: "2D Artist"
-- name: "Link"
-  icon: "fas fa-link"
-  content: "https://artstation.com/Hanh-Dung"
+  content: "Rigger & Founder @Colory"
+# - name: "Link"
+#   icon: "fas fa-link"
+#   content: "https://artstation.com/Hanh-Dung"
 ---
 
 
-### • Bài tập thực hiện trong quá trình học:
+##### • Bài tập thực hiện trong quá trình học:
 
 ![Hanh-Dung-assignment](/images/portfolio/HAA01_HanhDung1.jpg)
 
@@ -25,4 +25,4 @@ student_info:
 
 
 
-### • Nhận xét sau khoá học:
+<!-- ##### • Nhận xét sau khoá học: -->

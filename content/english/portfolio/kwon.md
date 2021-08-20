@@ -17,7 +17,7 @@ student_info:
 ---
 
 
-### • Bài tập thực hiện trong quá trình học:
+##### • Bài tập thực hiện trong quá trình học:
 
 ![kwon-assignment](/images/portfolio/HAA02_MinhHoang1.jpg)
 
@@ -26,4 +26,4 @@ student_info:
 ![kwon-assignment](/images/portfolio/HAA02_MinhHoang4.jpg)
 
 
-### • Nhận xét sau khoá học:
+##### • Nhận xét sau khoá học:
