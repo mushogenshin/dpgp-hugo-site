@@ -183,8 +183,8 @@ testimonial_slider:
 
   - name: "Đặng Quang Phúc"
     image: "images/students/DangQuangPhuc.jpg"
-    designation: "Digital Sculptor"
-    content: "Nói chung là đầy đủ thông tin với công cụ cơ bản để intro vào giải phẫu,nhưng em có cảm giác là hơi nhanh,nên tới khúc giải phẫu cẳng chân là em không nhớ gì nữa"
+    designation: "Digital Sculptor & Concept Artist"
+    content: "Nói chung là đầy đủ thông tin với công cụ cơ bản để intro vào giải phẫu,nhưng em có cảm giác là hơi nhanh, nên tới khúc giải phẫu cẳng chân là em không nhớ gì nữa"
 
   - name: "Lê Mỹ Hoà"
     image: "images/students/LeMyHoa.jpg"
