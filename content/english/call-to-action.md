@@ -2,9 +2,9 @@
 title : "MUỐN HỌC QUÁ ĐI?"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
-  enable : false
+  enable : true
   label : "ĐĂNG KÍ LUÔN"
-  link : "#contact"
+  link : "/register"
 
 
 # custom style
