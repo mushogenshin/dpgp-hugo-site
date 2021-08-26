@@ -86,7 +86,7 @@ testimonial_slider:
     designation: "2D Artist"
     content: "Đây là khoá học cực kì bổ ích với các bạn muốn đi theo con đường character luôn, kể cả 2D/3D, hoặc là muốn hiểu thêm về anatomy. Mình học rồi mới biết được đó giờ vẽ bậy hông à. Có điều là học tới 12h30 lận, tới giờ đó cũng gần xỉu rồi nên đầu óc hơi trên mây 1 tẹo...."
 
-  - name: "Nguyễn Hạ An"
+  - name: "Nguyễn Nữ Hạ An"
     image: "images/students/NguyenHaAn.jpg"
     designation: "3D Artist"
     content: "Hmmm phải nói là khóa học giải phẫu của anh Hoan đã mang lại cho em quá nhiều thứ, hơn cả những gì em nghĩ em sẽ đạt được. Những bài giảng bổ ích với bài sửa tận tình đã giúp em nhận ra nhiều lỗi sai của mình hơn. Tóm gọn là em cảm thấy đây là khóa học đáng giá nhất mà em từng tham gia trong vài năm vừa qua <3 Cảm ơn anh."
@@ -186,10 +186,10 @@ testimonial_slider:
     designation: "Digital Sculptor & Concept Artist"
     content: "Nói chung là đầy đủ thông tin với công cụ cơ bản để intro vào giải phẫu,nhưng em có cảm giác là hơi nhanh, nên tới khúc giải phẫu cẳng chân là em không nhớ gì nữa"
 
-  - name: "Lê Mỹ Hoà"
-    image: "images/students/LeMyHoa.jpg"
-    designation: "2D Artist"
-    content: "Vừa thú vị vừa khó a ơi"
+  # - name: "Lê Mỹ Hoà"
+  #   image: "images/students/LeMyHoa.jpg"
+  #   designation: "2D Artist"
+  #   content: "Vừa thú vị vừa khó a ơi"
 
   - name: "Trần Văn Khiết"
     image: "images/students/TranVanKhiet.jpg"
