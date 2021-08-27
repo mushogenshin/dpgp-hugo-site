@@ -2,7 +2,7 @@
 title: "Thanh Tuyền"
 date: 2021-08-27T06:39:34+07:00
 image: "images/portfolio/HAA10_ThanhTuyen3.jpg"
-categories: [HAA10]
+categories: [HAA10, ZBL3_2019]
 draft: false
 student_info:
 - name: "Thanh Tuyền"

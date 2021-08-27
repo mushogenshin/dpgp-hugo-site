@@ -2,7 +2,7 @@
 title: "Mỹ Hoà"
 date: 2021-08-27T06:27:42+07:00
 image: "images/portfolio/HAA10_MyHoa3.jpg"
-categories: [HAA10]
+categories: [HAA10, ZBL3_2019]
 draft: false
 student_info:
 - name: "Mỹ Hoà"
