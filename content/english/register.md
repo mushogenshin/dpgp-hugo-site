@@ -1,5 +1,5 @@
 ---
-title: "Đăng kí cho khoá HAA17"
+title: "Đăng kí cho khoá HAA18"
 date: 2021-08-27T02:42:49+07:00
 draft: false
 ---
