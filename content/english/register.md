@@ -1,5 +1,5 @@
 ---
-title: "Đăng kí cho khoá HAA18"
+title: "Đăng kí cho khoá HAA20"
 date: 2021-08-27T02:42:49+07:00
 draft: false
 ---
@@ -25,6 +25,7 @@ draft: false
 - 📍 3.200.000 VNĐ/module
 - 📍 đóng cho 2-3 module thì được giảm 5%
 - 📍 đóng luôn cho 4 module thì được giảm 10%
+- 📍 cựu học viên được giảm 30% (nhưng không áp dụng thêm các giảm giá khác)
 
 #### 💣 Đăng kí bằng 2 bước:
 
@@ -62,7 +63,8 @@ draft: false
 
 {{< rawhtml >}}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSck3tewY3NKhW38uT0x9wN4mYfAqyl6XPC1WNPuanE_wvgYmQ/viewform?embedded=true" width="640" height="3393" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3UDN64j2XYa7_THjNooatOgAHnvqVC1AZGtKfgy-3Tjw0lw/viewform?embedded=true" width="640" height="1830" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 {{< /rawhtml >}}
 
 ### Thông tin chuyển khoản
