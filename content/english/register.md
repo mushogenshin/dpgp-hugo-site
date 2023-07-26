@@ -41,7 +41,7 @@ draft: false
 
 {{< rawhtml >}}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdze3vmIeljGgQZvJTnSEDfpy_pwMmAZL63Slpa1jevh5UeSg/viewform?embedded=true" width="640" height="2592" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdze3vmIeljGgQZvJTnSEDfpy_pwMmAZL63Slpa1jevh5UeSg/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {{< /rawhtml >}}
 
