@@ -1,7 +1,11 @@
 ---
-title: "Đăng kí cho khoá HAA20"
-date: 2021-08-27T02:42:49+07:00
+title: "Đăng kí cho khoá HAA21 (khai giảng 26/8/2023)"
+date: 2023-07-26T02:42:49+07:00
 draft: false
+---
+
+#### Format: Học online, 💻 sinh viên tự xem bài giảng, có sửa bài hàng tuần 🪄
+
 ---
 
 #### 💣 Học theo 4 module từ căn bản đến nâng cao
@@ -10,27 +14,68 @@ draft: false
 - 📍 có thể chỉ học những module đầu nếu không có nhu cầu đào sâu hơn
 - 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), bài vẽ 2D (digital), hoặc bài sculpt 3D (digital), hoặc cả ba 🙂
 
-#### 💣 Trong mỗi buổi học:
+#### 💣 Trong mỗi tuần:
 
-- 📍 có video thâu lại để bạn ôn bài trong tuần
+- 📍 học viên **xem bài giảng qua video thâu sẵn**
 - 📍 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
 - 📍 có sửa bài chung cho cả lớp (2D lẫn 3D)
-
-#### 💣 Thời lượng:
-
-- 📍 mỗi tuần một buổi, từ 10:30 đến 13:30 ngày Chủ Nhật hàng tuần
+- 📍 thầy, trò, trợ giảng, và các bạn đồng môn cùng trao đổi qua Discord
 
 #### 💣 Học phí:
 
 - 📍 3.200.000 VNĐ/module
 - 📍 đóng cho 2-3 module thì được giảm 5%
 - 📍 đóng luôn cho 4 module thì được giảm 10%
-- 📍 cựu học viên được giảm 30% (nhưng không áp dụng thêm các giảm giá khác)
+- 📍 học sinh tự trừ phần giảm vào khi thanh toán.
 
-#### 💣 Đăng kí bằng 2 bước:
+#### 💣 Đăng ký bằng 2 bước:
 
 1. vui lòng điền Google form bên dưới
-2. chuyển khoản học phí
+2. chuyển khoản học phí (vui lòng kiểm tra kĩ thông tin chuyển khoản)
+
+##### Lưu ý:
+
+💔 Nếu chỉ thực hiện bước 1 thì là **vẫn chưa hoàn tất đăng ký**.
+
+---
+
+{{< rawhtml >}}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdze3vmIeljGgQZvJTnSEDfpy_pwMmAZL63Slpa1jevh5UeSg/viewform?embedded=true" width="640" height="2592" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+{{< /rawhtml >}}
+
+---
+
+### Thông tin chuyển khoản
+
+##### ⚠️ Quan trọng: các tài khoản cũ của Hoan đã không còn hoạt động!
+
+Vui lòng chuyển đến tài khoản ngân hàng sau:
+
+##### ➡️ **Techcombank** (ngân hàng Kỹ Thương):
+
+Nguyễn Thị Bích Huệ
+
+Mã số TK: `19028343424011`
+
+Chi nhánh Tân Sơn Nhất (Tân Bình)
+
+##### ➡️ Hoặc **PayPal**
+
+Đến địa chỉ: `mushogenshin@gmail.com`
+
+##### ➡️ Hoặc **MoMo**
+
+Đến số `098 847 8274`.
+
+##### Áp dụng cho mọi hình thức chuyển tiền:
+
+Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA21`), ví dụ:
+
+`Pham Thi Khue khuepham908.gmail HAA21` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`)
+
+---
 
 #### 💣 Sau mỗi module thì sẽ học được những gì:
 
@@ -44,12 +89,13 @@ draft: false
 ##### 📍 Kết thúc module 2:
 
 - hiểu biết căn bản về hệ thống cơ bắp của phần thân
+- xây dựng nhãn quan để khắc phục những lỗi sai không đáng có khi dựng hình người
 - hiểu biết sơ bộ về hệ thống cơ bắp của các chi
 - thực hiện bài tổng kết giai đoạn
 
 ##### 📍 Kết thúc module 3:
 
-- hiểu biết chuyên sâu về hệ thống cơ bắp của phần thân và các chi
+- thực tập vẽ Gesture: động thái, dáng điệu, cử chỉ
 - lý giải chi tiết cách thức vận động cơ học của cơ thể
 - thực hiện bài tổng kết giai đoạn + những bài study cao cấp
 - góp ý về phần figurative cho portfolio của bạn
@@ -57,38 +103,10 @@ draft: false
 ##### 📍 Kết thúc module 4:
 
 - có được nhìn nhận bao trùm và nhất quán về cơ thể người để phục vụ cho công việc
-- hiểu biết những chi tiết tinh vi mà mức trung sẽ không bao giờ học tới
+- hiểu biết chuyên sâu về hệ thống cơ bắp của phần thân và các chi, những chi tiết tinh vi mà mức trung sẽ không bao giờ học tới
 - góp ý về phần figurative cho portfolio của bạn
 - thực hiện đồ án cuối khoá nổi bật & xứng đáng cho vào portfolio
 
-{{< rawhtml >}}
+## 🧬 [Tham khảo bài học viên các khoá trước](https://dauphaigiaiphau.wtf/#portfolio)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3UDN64j2XYa7_THjNooatOgAHnvqVC1AZGtKfgy-3Tjw0lw/viewform?embedded=true" width="640" height="1830" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-{{< /rawhtml >}}
-
-### Thông tin chuyển khoản
-
-Học phí các bạn có thể chuyển đến 1 trong 2 tài khoản ngân hàng sau:
-
-##### ➡️ **Techcombank** (ngân hàng Kỹ Thương):
-
-Nguyễn Trọng Hoan
-
-Mã số TK: 19032905704011
-
-Chi nhánh Tân Sơn Nhất (Tân Bình)
-
-##### ➡️ **Vietcombank** (ngân hàng Ngoại Thương):
-
-Nguyễn Trọng Hoan
-
-Mã số TK: 0531002500155
-
-Chi nhánh VCB Đông Sài Gòn
-
-##### ➡️ Hoặc các bạn cũng có thể gửi qua **MoMo**
-
-Đến số 0934345609.
-
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn.
+## 🗝️ [Đọc nhận xét của các bạn](https://dauphaigiaiphau.wtf/#testimonial)
