@@ -1,6 +1,6 @@
 ---
-title: "Đăng kí cho khoá HAA21 (khai giảng 26/8/2023)"
-date: 2023-07-26T02:42:49+07:00
+title: "Đăng kí cho khoá HAA22 (khai giảng 6/1/2024)"
+date: 2023-10-04T02:42:49+07:00
 draft: false
 ---
 
@@ -13,13 +13,15 @@ draft: false
 - 📍 mỗi module kéo dài 4 tuần
 - 📍 có thể chỉ học những module đầu nếu không có nhu cầu đào sâu hơn
 - 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), bài vẽ 2D (digital), hoặc bài sculpt 3D (digital), hoặc cả ba 🙂
+- 📍 giữa các module có 1 tuần giải lao
 
 #### 💣 Trong mỗi tuần:
 
-- 📍 học viên **xem bài giảng qua video thâu sẵn**
-- 📍 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
-- 📍 có sửa bài chung cho cả lớp (2D lẫn 3D)
-- 📍 thầy, trò, trợ giảng, và các bạn đồng môn cùng trao đổi qua Discord
+- 🔅 học viên **xem bài giảng qua video thâu sẵn**
+- 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
+- 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
+- 🔅 thầy, trò, trợ giảng, và các bạn đồng môn cùng trao đổi bằng chat qua Discord (<u>không phải live hay call</u>)
+- 🔅 bài giảng <u>được unlock hàng tuần</u> (chứ không có mở hàng loạt, tránh hiện tượng chỉ binge mà không thực hành)
 
 #### 💣 Học phí:
 
@@ -27,6 +29,14 @@ draft: false
 - 📍 đóng cho 2-3 module thì được giảm 5%
 - 📍 đóng luôn cho 4 module thì được giảm 10%
 - 📍 học sinh tự trừ phần giảm vào khi thanh toán.
+
+#### 💣 Lịch học:
+
+- 👾 Module 1: bốn ngày thứ Bảy: 6/1, 13/1, 20/1, 27/1
+- Nghỉ Tết Âm Lịch 2024
+- 👾 Module 2: bốn ngày thứ Bảy: 17/2, 24/2, 2/3, 9/3
+- 👾 Module 3: bốn ngày thứ Bảy: 23/3, 30/3, 6/4, 13/4
+- 👾 Module 4: bốn ngày thứ Bảy: 27/4, 4/5, 11/5, 18/5
 
 #### 💣 Đăng ký bằng 2 bước:
 
@@ -41,7 +51,7 @@ draft: false
 
 {{< rawhtml >}}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdze3vmIeljGgQZvJTnSEDfpy_pwMmAZL63Slpa1jevh5UeSg/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScX5tZqObg4i2Zk2UAKV-FHLKdtm3ydwpn8CyLYHSqJWe9iIg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {{< /rawhtml >}}
 
@@ -71,9 +81,9 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 
 ##### Áp dụng cho mọi hình thức chuyển tiền:
 
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA21`), ví dụ:
+Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA22`), ví dụ:
 
-`Pham Thi Khue khuepham908.gmail HAA21` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`)
+`Pham Thi Khue khuepham908.gmail HAA22` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 
