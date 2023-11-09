@@ -17,7 +17,7 @@ draft: false
 
 #### 💣 Trong mỗi tuần:
 
-- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (10:00 đến 11:00 AM, giờ VN)
+- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (10:00 đến 11:00 AM thứ Bảy, giờ VN)
 - 🔅 học viên sau đó có một tuần để **xem bài giảng qua video thâu sẵn**
 - 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
 - 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
