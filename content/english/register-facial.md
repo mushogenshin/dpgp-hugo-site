@@ -1,6 +1,6 @@
 ---
 title: "Đăng kí cho khoá FAP02 (khai giảng 6/12/2023)"
-date: 2023-10-15:42:49+07:00
+date: 2023-11-09:42:49+07:00
 draft: false
 ---
 
@@ -8,10 +8,10 @@ draft: false
 
 ---
 
-#### 💣 Học theo 3 module từ căn bản đến nâng cao
+#### 💣 Học theo 3 track từ căn bản đến nâng cao
 
-- 📍 mỗi module kéo dài 6-12 tuần
-- 📍 có thể chỉ học những module đầu nếu không có nhu cầu đào sâu hơn (nhưng tham gia các module sau đòi hỏi phải tham gia các module trước)
+- 📍 mỗi track kéo dài 6-12 tuần
+- 📍 có thể chỉ học những track đầu nếu không có nhu cầu đào sâu hơn (nhưng tham gia các track sau đòi hỏi phải tham gia các track trước)
 - 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), bài vẽ 2D (digital), hoặc bài sculpt 3D (digital), hoặc cả ba 🙂
 
 #### 💣 Trong mỗi tuần:
@@ -25,17 +25,17 @@ draft: false
 
 #### 💣 Học phí:
 
-- 📍 Module #1: 5.800.000 VNĐ
-- 📍 Module #2: 10.000.000 VNĐ
-- 📍 Module #3: 12.000.000 VNĐ
+- 📍 Track A: 5.800.000 VNĐ
+- 📍 Track B: 10.000.000 VNĐ
+- 📍 Track C: 12.000.000 VNĐ
 
 #### 💣 Lịch học:
 
-- 👾 Module 1: sáu ngày thứ Tư: 6/12/2023 đến 10/1/2024
-- 👾 Module 2 (đồ án 1): bốn ngày thứ Tư: 17/1, 24/1, 31/1, 7/2
+- 👾 Track A: sáu ngày thứ Tư: 6/12/2023 đến 10/1/2024
+- 👾 Track B (đồ án #1): bốn ngày thứ Tư: 17/1, 24/1, 31/1, 7/2
 - Nghỉ Tết Âm Lịch 2024
-- 👾 Module 2 (đồ án 2): bốn ngày thứ Tư: 21/2, 28/2, 6/3, 13/3
-- 👾 Module 3 (dự kiến): tám ngày thứ Tư: 3/4 đến 22/5
+- 👾 Track B (đồ án #2): bốn ngày thứ Tư: 21/2, 28/2, 6/3, 13/3
+- 👾 Track C (dự kiến): tám ngày thứ Tư: 3/4 đến 22/5
 
 #### 💣 Đăng ký bằng 2 bước:
 
@@ -86,23 +86,23 @@ Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của c
 
 ---
 
-#### 💣 Sau mỗi module thì sẽ học được những gì:
+#### 💣 Sau mỗi track thì sẽ học được những gì:
 
-##### 📍 Kết thúc module 1: CẤU TRÚC SỌ & NGŨ QUAN (Skull structure & facial features)
+##### 📍 Kết thúc track A: CẤU TRÚC SỌ & NGŨ QUAN (Skull structure & facial features)
 
 - nắm được những gì là quan trọng nhất của thể hiện hình khối và hình hài khuôn mặt người trong mỹ thuật
 - hiểu biết về hạ tầng tối quan trọng của khuôn mặt: sọ, và ảnh hưởng của sọ lên bề mặt trong không gian 3 chiều
 - thực hành về dựng hình ngũ quan: mắt, mũi, miệng, tai
 - đặt ngũ quan lên trên tổng thể sọ
 
-##### 📍 Kết thúc module 2: CHÂN DUNG (Likeness & portraiture)
+##### 📍 Kết thúc track B: CHÂN DUNG (Likeness & portraiture)
 
 - nắm được những phương pháp quan sát và phân tích cần thiết trong chân dung và hí hoạ
 - giải phẫu những form phụ nhưng tác động đến likeness
 - luyện tập khả năng nhìn và nhận định đặc thù mặt người
 - thực hiện đồ án để tiếp cận một số công nghệ hiện đại liên quan đến chân dung để mở rộng và phát triển óc phân tích trong công việc thực hiện likeness
 
-##### 📍 Kết thúc module 3: BIỂU CẢM (Facial expressions)
+##### 📍 Kết thúc track C: BIỂU CẢM (Facial expressions)
 
 - tiếp cận khuôn mặt trong chuyển động, hệ thống hoá những cơ biểu cảm trên mặt và vai trò của các cơ trong biểu hiện cảm xúc
 - liên hệ được biểu cảm với chân dung
