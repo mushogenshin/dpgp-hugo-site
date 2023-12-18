@@ -1,6 +1,6 @@
 ---
-title: "Đăng kí cho khoá ACA02 (khai giảng 9/12/2023)"
-date: 2023-10-15:42:49+07:00
+title: "Đăng kí cho khoá ACA03 (khai giảng 10/3/2024)"
+date: 2023-12-18:42:49+07:00
 draft: false
 ---
 
@@ -12,12 +12,13 @@ draft: false
 
 - 📍 mỗi module kéo dài 4-6 tuần
 - 📍 có thể chỉ học những module đầu nếu không có nhu cầu đào sâu hơn (nhưng tham gia các module sau đòi hỏi phải tham gia các module trước)
+- 📍 tài liệu trọn đời
 - 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), bài vẽ 2D (digital), hoặc bài sculpt 3D (digital), hoặc cả ba 🙂
-- 📍 giữa các module có 2 tuần giải lao
+- 📍 giữa các module có 1 tuần giải lao
 
 #### 💣 Trong mỗi tuần:
 
-- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (10:00 đến 11:00 AM thứ Bảy, giờ VN)
+- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (10:00 đến 11:00 AM Chủ Nhật, giờ VN)
 - 🔅 học viên sau đó có một tuần để **xem bài giảng qua video thâu sẵn**
 - 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
 - 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
@@ -32,12 +33,9 @@ draft: false
 
 #### 💣 Lịch học:
 
-- 👾 Module 1: bốn ngày thứ Bảy: 9/12, 16/12, 23/12, 30/12
-- Tết Dương Lịch 2024
-- 👾 Module 2 (phần 1): ba ngày thứ Bảy: 20/1, 27/1, 3/2
-- Nghỉ Tết Âm Lịch 2024
-- 👾 Module 2 (phần 2): ba ngày thứ Bảy: 17/2, 24/2, 2/3
-- 👾 Module 3 (dự kiến): sáu ngày thứ Bảy: 23/3 đến 27/4
+- 👾 Module 1: bốn ngày Chủ Nhật: 10/3 đến 31/3
+- 👾 Module 2: sáu ngày Chủ Nhật: 7/4 đến 19/5
+- 👾 Module 3 (dự kiến): sáu ngày Chủ Nhật: 2/6 đến 7/7
 
 #### 💣 Đăng ký bằng 2 bước:
 
@@ -52,7 +50,7 @@ draft: false
 
 {{< rawhtml >}}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqtbd4No1iofls44SQDWTfIWITd1D8Z27Z3L4JIVVy62IvIQ/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTbrKOgNwnYZp1UtAlhnv6FK2PmUDKjoeaMjIjtrVnFAvL_g/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {{< /rawhtml >}}
 
@@ -82,9 +80,9 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 
 ##### Áp dụng cho mọi hình thức chuyển tiền:
 
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`ACA02`), ví dụ:
+Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`ACA03`), ví dụ:
 
-`Pham Thi Khue khuepham908.gmail ACA02` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
+`Pham Thi Khue khuepham908.gmail ACA03` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 
