@@ -1,6 +1,6 @@
 ---
 title: "Đăng kí cho khoá ACA03 (khai giảng 10/3/2024)"
-date: 2023-12-18:42:49+07:00
+date: 2023-12-18T08:42:49+07:00
 draft: false
 ---
 

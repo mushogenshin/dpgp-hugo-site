@@ -1,6 +1,6 @@
 ---
-title: "Đăng kí cho khoá FAP02 (khai giảng 6/12/2023)"
-date: 2023-11-09:42:49+07:00
+title: "Đăng kí cho khoá FAP03 (khai giảng 21/5/202)"
+date: 2024-03-22T09:42:49+07:00
 draft: false
 ---
 
@@ -8,15 +8,15 @@ draft: false
 
 ---
 
-#### 💣 Học theo 3 track từ căn bản đến nâng cao
+#### 💣 Học theo 2 track từ căn bản đến nâng cao
 
-- 📍 mỗi track kéo dài 6-12 tuần
+- 📍 mỗi track kéo dài 7-10 tuần
 - 📍 có thể chỉ học những track đầu nếu không có nhu cầu đào sâu hơn (nhưng tham gia các track sau đòi hỏi phải tham gia các track trước)
 - 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), bài vẽ 2D (digital), hoặc bài sculpt 3D (digital), hoặc cả ba 🙂
 
 #### 💣 Trong mỗi tuần:
 
-- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (9:00 đến 10:00 PM thứ Tư, giờ VN)
+- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (9:00 đến 10:00 PM thứ Ba, giờ VN)
 - 🔅 học viên sau đó có một tuần để **xem bài giảng qua video thâu sẵn**
 - 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
 - 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
@@ -26,16 +26,13 @@ draft: false
 #### 💣 Học phí:
 
 - 📍 Track A: 5.800.000 VNĐ
-- 📍 Track B: 10.000.000 VNĐ
-- 📍 Track C: 12.000.000 VNĐ
+- 📍 Track B: 11.000.000 VNĐ
 
 #### 💣 Lịch học:
 
-- 👾 Track A: sáu ngày thứ Tư: 6/12/2023 đến 10/1/2024
-- 👾 Track B (đồ án #1): bốn ngày thứ Tư: 17/1, 24/1, 31/1, 7/2
-- Nghỉ Tết Âm Lịch 2024
-- 👾 Track B (đồ án #2): bốn ngày thứ Tư: 21/2, 28/2, 6/3, 13/3
-- 👾 Track C (dự kiến): tám ngày thứ Tư: 3/4 đến 22/5
+- 👾 Track A: bảy ngày thứ Ba: 21/5 đến 2/7
+- 👾 Track B (đồ án #1): năm ngày thứ Ba: 9/7 đến 6/8
+- 👾 Track B (đồ án #2): năm ngày thứ Ba: 13/8 đến 10/9
 
 #### 💣 Đăng ký bằng 2 bước:
 
@@ -98,13 +95,6 @@ Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của c
 ##### 📍 Kết thúc track B: CHÂN DUNG (Likeness & portraiture)
 
 - nắm được những phương pháp quan sát và phân tích cần thiết trong chân dung và hí hoạ
-- giải phẫu những form phụ nhưng tác động đến likeness
+- giải phẫu những form tuy phụ nhưng tác động rất lớn đến likeness
 - luyện tập khả năng nhìn và nhận định đặc thù mặt người
 - thực hiện đồ án để tiếp cận một số công nghệ hiện đại liên quan đến chân dung để mở rộng và phát triển óc phân tích trong công việc thực hiện likeness
-
-##### 📍 Kết thúc track C: BIỂU CẢM (Facial expressions)
-
-- tiếp cận khuôn mặt trong chuyển động, hệ thống hoá những cơ biểu cảm trên mặt và vai trò của các cơ trong biểu hiện cảm xúc
-- liên hệ được biểu cảm với chân dung
-- thực hành thể hiện và tái tạo cảm xúc nhân vật trong tác phẩm cho hiệu quả (2D)
-- nắm được hình khối của các vùng trên mặt trong chuyển động (3D)

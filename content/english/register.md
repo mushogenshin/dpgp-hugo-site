@@ -1,5 +1,5 @@
 ---
-title: "Đăng kí cho khoá HAA22 (khai giảng 6/1/2024)"
+title: "Đăng kí cho khoá HAA23 (khai giảng 1/6/2024)"
 date: 2023-10-04T02:42:49+07:00
 draft: false
 ---
@@ -32,11 +32,10 @@ draft: false
 
 #### 💣 Lịch học:
 
-- 👾 Module 1: bốn ngày thứ Bảy: 6/1, 13/1, 20/1, 27/1
-- Nghỉ Tết Âm Lịch 2024
-- 👾 Module 2: bốn ngày thứ Bảy: 17/2, 24/2, 2/3, 9/3
-- 👾 Module 3: bốn ngày thứ Bảy: 23/3, 30/3, 6/4, 13/4
-- 👾 Module 4: bốn ngày thứ Bảy: 27/4, 4/5, 11/5, 18/5
+- 👾 Module 1: bốn ngày thứ Bảy: 1/6, 8/6, 15/6, 22/6
+- 👾 Module 2: bốn ngày thứ Bảy: 6/7, 13/7, 20/7, 27/7
+- 👾 Module 3: bốn ngày thứ Bảy: 10/8, 17/8, 24/8, 31/8
+- 👾 Module 4: bốn ngày thứ Bảy: 14/10, 21/10, 28/20, 5/11
 
 #### 💣 Đăng ký bằng 2 bước:
 
