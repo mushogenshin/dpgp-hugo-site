@@ -1,5 +1,5 @@
 ---
-title: "Đăng kí cho khoá FAP03 (khai giảng 21/5/202)"
+title: "Đăng kí cho khoá FAP03 (khai giảng 21/5/2024)"
 date: 2024-03-22T09:42:49+07:00
 draft: false
 ---
