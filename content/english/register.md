@@ -17,7 +17,8 @@ draft: false
 
 #### 💣 Trong mỗi tuần:
 
-- 🔅 học viên **xem bài giảng qua video thâu sẵn**
+- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (9:00 đến 10:00AM sáng thứ Bảy, giờ VN)
+- 🔅 học viên sau đó có một tuần để **xem bài giảng qua video thâu sẵn**
 - 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
 - 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
 - 🔅 thầy, trò, trợ giảng, và các bạn đồng môn cùng trao đổi bằng chat qua Discord (<u>không phải live hay call</u>)

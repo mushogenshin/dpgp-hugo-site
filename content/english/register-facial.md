@@ -16,7 +16,7 @@ draft: false
 
 #### 💣 Trong mỗi tuần:
 
-- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (9:00 đến 10:00 PM thứ Ba, giờ VN)
+- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (9:00 đến 10:00PM tối thứ Ba, giờ VN)
 - 🔅 học viên sau đó có một tuần để **xem bài giảng qua video thâu sẵn**
 - 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
 - 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
@@ -31,8 +31,9 @@ draft: false
 #### 💣 Lịch học:
 
 - 👾 Track A: bảy ngày thứ Ba: 21/5 đến 2/7
-- 👾 Track B (đồ án #1): năm ngày thứ Ba: 9/7 đến 6/8
-- 👾 Track B (đồ án #2): năm ngày thứ Ba: 13/8 đến 10/9
+- 👾 Track B:
+  - đồ án #1: năm ngày thứ Ba: 9/7 đến 6/8
+  - đồ án #2: năm ngày thứ Ba: 13/8 đến 10/9
 
 #### 💣 Đăng ký bằng 2 bước:
 
