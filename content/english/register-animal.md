@@ -4,6 +4,8 @@ date: 2023-12-18T08:42:49+07:00
 draft: false
 ---
 
+## 😌 Animal & Creature Anatomy
+
 #### Format: Học online, 💻 có Live QnA sau đó sinh viên tự xem bài giảng, có sửa bài hàng tuần 🪄
 
 ---

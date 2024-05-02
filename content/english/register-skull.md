@@ -4,6 +4,8 @@ date: 2024-03-20:42:49+07:00
 draft: false
 ---
 
+## 😌 All About The Skull
+
 #### Format: Tự học online, 💻 có nhóm Discord để đặt câu hỏi và được góp ý 🪄
 
 ---
