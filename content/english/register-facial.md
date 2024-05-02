@@ -78,9 +78,9 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 
 ##### Áp dụng cho mọi hình thức chuyển tiền:
 
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`FAP02_trackB`), ví dụ:
+Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`FAP03_trackA`), ví dụ:
 
-`Pham Thi Khue khuepham908.gmail FAP02_trackB` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
+`Pham Thi Khue khuepham908.gmail FAP03_trackA` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 

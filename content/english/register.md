@@ -81,9 +81,9 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 
 ##### Áp dụng cho mọi hình thức chuyển tiền:
 
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA22`), ví dụ:
+Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA23`), ví dụ:
 
-`Pham Thi Khue khuepham908.gmail HAA22` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
+`Pham Thi Khue khuepham908.gmail HAA23` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 
