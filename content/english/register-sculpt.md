@@ -19,7 +19,7 @@ draft: false
 
 #### 💣 Trong mỗi tuần:
 
-- 🔅 cả lớp dự buổi giảng bài 9:00 đến 10:00PM tối Chủ Nhật, giờ VN
+- 🔅 cả lớp dự buổi giảng bài 8:00 đến 10:30PM tối Chủ Nhật, giờ VN
 - 🔅 mỗi người theo đuổi đề tài đồ án của riêng mình
 - 🔅 học viên sau đó có một tuần để tạc theo trọng tâm và workflow được hướng dẫn
 - 🔅 có sửa bài chung cho cả lớp
@@ -27,7 +27,7 @@ draft: false
 
 #### 💣 Học phí:
 
-- 📍 Track A: 7.000.000 VNĐ
+- 📍 Track A: 7.400.000 VNĐ
 - 📍 Track B: 12.800.000 VNĐ
 
 #### 💣 Lịch học:
