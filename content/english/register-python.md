@@ -85,4 +85,6 @@ Phần nội dung xin ghi rõ **họ tên và email** của các bạn kèm **
 
 #### Học xong thì làm được những gì?
 
-Do TechArt quá bao la và đặc biệt khó để thẩm định "giỏi cỡ nào", "đủ hay chưa", chỉ có thể expect là sau 6-12 tháng nếu chuyên tâm chăm chỉ bạn sẽ thông thạo về việc dùng Python cho phát triển tools trong TechArt ít nhất ở tầm 20-50% mức của thầy 🙂‍↕️.
+Do TechArt quá bao la và đặc biệt khó để thẩm định "giỏi cỡ nào", "đủ hay chưa", chỉ có thể expect là sau 6-12 tháng nếu chuyên tâm chăm chỉ bạn sẽ thông thạo về việc dùng Python cho phát triển tools trong TechArt ít nhất ở tầm 20-50% mức của thầy 🙂‍↕️ (công bằng mà nói nhiêu đây đã là khá nhiều!).
+
+Hẹn gặp các bạn ở lớp PYTHON FOR TECHART 2024!
