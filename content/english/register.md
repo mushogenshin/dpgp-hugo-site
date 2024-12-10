@@ -1,30 +1,25 @@
 ---
-title: "Đăng kí cho khoá HAA23 (khai giảng 1/6/2024)"
-date: 2023-10-04T02:42:49+07:00
+title: "Đăng kí cho khoá Anatomy tự học"
+date: 2024-12-11T02:42:49+07:00
 draft: false
 ---
 
 ## 😌 Artistic Anatomy (Human Body)
 
-#### Format: Học online, 💻 sinh viên tự xem bài giảng, có sửa bài hàng tuần 🪄
+#### Format: Tự học online 100%, 💻 sinh viên tự xem bài giảng và xem sửa bài của các khoá trước 🪄
 
 ---
 
 #### 💣 Học theo 4 module từ căn bản đến nâng cao
 
-- 📍 mỗi module kéo dài 4 tuần
+- 📍 mỗi module tương ứng với khối lượng 4 tuần, mỗi tuần với rất nhiều kiến thức mới
 - 📍 có thể chỉ học những module đầu nếu không có nhu cầu đào sâu hơn
-- 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), bài vẽ 2D (digital), hoặc bài sculpt 3D (digital), hoặc cả ba 🙂
-- 📍 giữa các module có 1 tuần giải lao
+- 📍 thực hành linh hoạt: có thể áp dụng vào vẽ tay (giấy bút), vẽ 2D (digital), hoặc sculpt 3D (digital hoặc traditional) 🙂
 
-#### 💣 Trong mỗi tuần:
+#### 💣 Nội dung mỗi tuần:
 
-- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (9:00 đến 10:00AM sáng thứ Bảy, giờ VN)
-- 🔅 học viên sau đó có một tuần để **xem bài giảng qua video thâu sẵn**
-- 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
-- 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
-- 🔅 thầy, trò, trợ giảng, và các bạn đồng môn cùng trao đổi bằng chat qua Discord (<u>không phải live hay call</u>)
-- 🔅 bài giảng <u>được unlock hàng tuần</u> (chứ không có mở hàng loạt, tránh hiện tượng chỉ binge mà không thực hành)
+- 🔅 video bài giảng được trình bày theo lối rất dễ hiểu
+- 🔅 video sửa bài chung cho cả lớp (2D lẫn 3D), là điểm đặc sắc của DPGP gần như không nơi nào khác có, giúp nhóm 2D học được những hình dung 3D tốt hơn, nhóm 3D học được những tư duy design sắc bén hơn
 
 #### 💣 Học phí:
 
@@ -32,13 +27,6 @@ draft: false
 - 📍 đóng cho 2-3 module thì được giảm 5%
 - 📍 đóng luôn cho 4 module thì được giảm 10%
 - 📍 học sinh tự trừ phần giảm vào khi thanh toán.
-
-#### 💣 Lịch học:
-
-- 👾 Module 1: bốn ngày thứ Bảy: 1/6, 8/6, 15/6, 22/6
-- 👾 Module 2: bốn ngày thứ Bảy: 6/7, 13/7, 20/7, 27/7
-- 👾 Module 3: bốn ngày thứ Bảy: 10/8, 17/8, 24/8, 31/8
-- 👾 Module 4: bốn ngày thứ Bảy: 14/10, 21/10, 28/20, 5/11
 
 #### 💣 Đăng ký bằng 2 bước:
 
@@ -53,7 +41,7 @@ draft: false
 
 {{< rawhtml >}}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8jKr7GQUlGEY0v6kWwzJub5-Ec9KV0rQPmkD4427aewCq9w/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQcX_UPu_CHBN-vvPHlE1Vt4ZvWASSa0goOUZE7FQYWU2y5g/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {{< /rawhtml >}}
 
@@ -83,9 +71,9 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 
 ##### Áp dụng cho mọi hình thức chuyển tiền:
 
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA23`), ví dụ:
+Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA00`), ví dụ:
 
-`Pham Thi Khue khuepham908.gmail HAA23` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
+`Pham Thi Khue khuepham908.gmail HAA00` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 
@@ -103,22 +91,25 @@ Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của c
 - hiểu biết căn bản về hệ thống cơ bắp của phần thân
 - xây dựng nhãn quan để khắc phục những lỗi sai không đáng có khi dựng hình người
 - hiểu biết sơ bộ về hệ thống cơ bắp của các chi
-- thực hiện bài tổng kết giai đoạn
+- nên tự thực hiện bài tổng kết giai đoạn
 
 ##### 📍 Kết thúc module 3:
 
 - thực tập vẽ Gesture: động thái, dáng điệu, cử chỉ
 - lý giải chi tiết cách thức vận động cơ học của cơ thể
-- thực hiện bài tổng kết giai đoạn + những bài study cao cấp
-- góp ý về phần figurative cho portfolio của bạn
+- nên tự thực hiện bài tổng kết giai đoạn + những bài study cao cấp
 
 ##### 📍 Kết thúc module 4:
 
 - có được nhìn nhận bao trùm và nhất quán về cơ thể người để phục vụ cho công việc
 - hiểu biết chuyên sâu về hệ thống cơ bắp của phần thân và các chi, những chi tiết tinh vi mà mức trung sẽ không bao giờ học tới
-- góp ý về phần figurative cho portfolio của bạn
-- thực hiện đồ án cuối khoá nổi bật & xứng đáng cho vào portfolio
 
-## 🧬 [Tham khảo bài học viên các khoá trước](https://dauphaigiaiphau.wtf/#portfolio)
+## 🧬 Tham khảo [bài học viên](https://dauphaigiaiphau.wtf/#portfolio) các khoá trước
 
-## 🗝️ [Đọc nhận xét của các bạn](https://dauphaigiaiphau.wtf/#testimonial)
+## 🗝️ Đọc [nhận xét](https://dauphaigiaiphau.wtf/#testimonial) của các bạn
+
+## Lưu ý:
+
+"Chuyên nghiệp" ở đây là nói về định hướng nội dung giáo trình, người học có thể chưa biết gì về nghệ thuật, hoặc chưa có kĩ năng vẽ, vẫn có thể tham gia được bình thường.
+
+👉 Hãy bắt đầu học Anatomy ngay hôm nay để có nền tảng tốt khi thực hiện tạo hình cơ thể người và sinh vật.
