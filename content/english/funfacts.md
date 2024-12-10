@@ -5,17 +5,17 @@ funfacts:
   # funfacts item loop
   - name: "NĂM DẠY"
     image: "images/icons/works.png"
-    count: "8"
+    count: "9"
 
   # funfacts item loop
   - name: "HỌC VIÊN"
     image: "images/icons/happy.png"
-    count: "560"
+    count: "1000"
 
   # funfacts item loop
   - name: "KHOÁ ANATOMY"
     image: "images/icons/project.png"
-    count: "22"
+    count: "30"
 
   # funfacts item loop
   - name: "WORKSHOP"
