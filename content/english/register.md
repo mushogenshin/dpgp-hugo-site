@@ -12,14 +12,15 @@ draft: false
 
 #### 💣 Học theo 4 module từ căn bản đến nâng cao
 
-- 📍 mỗi module tương ứng với khối lượng 4 tuần, mỗi tuần với rất nhiều kiến thức mới
+- 📍 mỗi module tương đương khối lượng 4 tuần, mỗi tuần với rất nhiều kiến thức mới
 - 📍 có thể chỉ học những module đầu nếu không có nhu cầu đào sâu hơn
-- 📍 thực hành linh hoạt: có thể áp dụng vào vẽ tay (giấy bút), vẽ 2D (digital), hoặc sculpt 3D (digital hoặc traditional) 🙂
+- 📍 thực hành linh hoạt: có thể áp dụng vào vẽ tay (giấy bút), vẽ 2D (digital), hoặc sculpt 3D (digital hoặc traditional)
 
 #### 💣 Nội dung mỗi tuần:
 
-- 🔅 video bài giảng được trình bày theo lối rất dễ hiểu
-- 🔅 video sửa bài chung cho cả lớp (2D lẫn 3D), là điểm đặc sắc của DPGP gần như không nơi nào khác có, giúp nhóm 2D học được những hình dung 3D tốt hơn, nhóm 3D học được những tư duy design sắc bén hơn
+- 🔅 xem video bài giảng được trình bày theo lối rất dễ hiểu
+- 🔅 xem video sửa bài chung cho cả lớp (2D lẫn 3D), là điểm đặc sắc của DPGP gần như không nơi nào khác có, giúp nhóm 2D học được những hình dung 3D tốt hơn, nhóm 3D học được những tư duy design sắc bén hơn
+- 🔅 lĩnh hội những kiến thức rất khó nhắn được truyền tải sinh động và lớp lang
 
 #### 💣 Học phí:
 
@@ -112,4 +113,4 @@ Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của c
 
 "Chuyên nghiệp" ở đây là nói về định hướng nội dung giáo trình, người học có thể chưa biết gì về nghệ thuật, hoặc chưa có kĩ năng vẽ, vẫn có thể tham gia được bình thường.
 
-👉 Hãy bắt đầu học Anatomy ngay hôm nay để có nền tảng tốt khi thực hiện tạo hình cơ thể người và sinh vật.
+👉 Hãy bắt đầu học Anatomy ngay hôm nay để có nền tảng tốt khi thực hiện tạo hình cơ thể người và sinh vật, là thứ tuy quen thuộc nhưng vốn rất khó chớ không hề dễ.
