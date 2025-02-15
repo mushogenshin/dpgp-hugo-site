@@ -3,7 +3,7 @@ baseURL = "https://examplesite.com"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
-paginate = "6"
+pagerSize = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
@@ -19,7 +19,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 home = ["HTML"]
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 ############################# Plugins ##############################
 
@@ -74,7 +74,7 @@ author = "somrat"
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
-  
+
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-facebook-f"

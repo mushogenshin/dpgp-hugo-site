@@ -3,7 +3,7 @@ baseURL = "/"
 title = "Dẫu Phải Giải Phẫu"
 theme = "somrat"
 # post pagination
-paginate = "6"
+pagerSize = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
