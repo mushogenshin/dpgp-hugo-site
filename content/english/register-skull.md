@@ -1,6 +1,6 @@
 ---
 title: "Đăng kí cho workshop Sọ"
-date: 2024-03-20:42:49+07:00
+date: 2024-03-20T12:00:00
 draft: false
 ---
 
