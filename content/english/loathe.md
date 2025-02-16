@@ -6,6 +6,9 @@ draft: false
 
 ## 👯‍♀️ Đến Vẽ Life Drawing Chung!
 
+![](/images/loathe/loathe-friends-5.jpg)
+![](/images/loathe/loathe-friends-1.jpg)
+
 ##### 👀 Hãy lưu ý mã số của buổi vẽ mà bạn muốn tham gia
 
 ---
@@ -16,6 +19,8 @@ draft: false
 | **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅       | ✅   | 25  |
 
 ---
+
+![](/images/loathe/loathe-friends-8.jpg)
 
 ### Cách đăng ký: Thông qua bé DLUS (Discord bot)
 
@@ -48,6 +53,8 @@ Bước 4: nếu còn trống chỗ, vui lòng thanh toán (với 1 trong các p
 
 🙋🏻‍♀️ Sau đó chỉ cần chờ tụi mình duyệt đơn hàng của bạn nhé.
 
+![](/images/loathe/loathe-friends-6.jpg)
+
 ### Thông tin chuyển khoản
 
 Vui lòng chuyển đến tài khoản ngân hàng sau:
@@ -75,3 +82,10 @@ Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của c
 `Pham Thi Khue khuepham908.gmail HAA00` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 --- -->
+
+![](/images/loathe/loathe-friends-2.jpg)
+![](/images/loathe/loathe-friends-4.jpg)
+![](/images/loathe/loathe-friends-7.jpg)
+![](/images/loathe/loathe-friends-3.jpg)
+
+Hẹn gặp các bạn ở buổi vẽ!
