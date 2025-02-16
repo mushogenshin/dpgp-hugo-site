@@ -47,7 +47,11 @@ Bước 3: vì có giới hạn chỗ ngồi nên vui lòng kiểm tra trước 
 
 Bước 4: nếu còn trống chỗ, vui lòng thanh toán (với 1 trong các phương thức bên dưới) và tiếp theo dùng lệnh "**register**" với bot để gửi screenshot giao dịch
 
-<img src="/images/loathe/loathe-dlus-4.jpg" alt="Step 4" width="800" height="647">
+<img src="/images/loathe/loathe-dlus-4a.jpg" alt="Step 4" width="800" height="647">
+
+ví dụ:
+
+<img src="/images/loathe/loathe-dlus-4b.jpg" alt="Step 4" width="720" height="289">
 
 ►
 
