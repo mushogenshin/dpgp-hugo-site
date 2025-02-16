@@ -4,20 +4,49 @@ date: 2025-02-15T02:42:49+07:00
 draft: false
 ---
 
-## 👯‍♀️ Đến Vẽ Life Drawing Chung
+## 👯‍♀️ Đến Vẽ Life Drawing Chung!
 
 ##### 👀 Hãy lưu ý mã số của buổi vẽ mà bạn muốn tham gia
 
 ---
 
-
-| Buổi     | Ghi chú              | Mẫu        | Thời gian        | Địa điểm                | Giá  | Feedback | Nude |
-|----------|----------------------|------------|------------------|-------------------------|------|----------|------|
-| **1048** | Thử thêm cái mới     | ?          | 2pm CN 2/3       | Thông báo sau (Sài Gòn) | -    | ✅        | ?    |
-| **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅        | ✅    |
-
+| Buổi     | Chủ đề               | Mẫu        | Thời gian        | Địa điểm                | Giá  | Sửa bài | Art | Max |
+|----------|----------------------|------------|------------------|-------------------------|------|---------|-----|-----|
+| **1048** | Thử thêm cái mới     | ?          | 2pm CN 2/3       | Thông báo sau (Sài Gòn) | -    | ✅       | ?   | -   |
+| **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅       | ✅   | 25  |
 
 ---
+
+### Cách đăng ký: Thông qua bé DLUS (Discord bot)
+
+►
+
+Bước 1: tham gia [**server Discord của Dẫu Phải Giải Phẫu**](https://discord.gg/XcjvTRkn8T)
+
+<img src="/images/loathe/loathe-dlus-1.jpg" alt="Step 1" width="400" height="339">
+
+►
+
+Bước 2: trong channel "bots", bắt chuyện riêng với "đầu lâu u sầu"
+
+<img src="/images/loathe/loathe-dlus-2.jpg" alt="Step 2" width="400" height="568">
+
+
+►
+
+Bước 3: vì có giới hạn chỗ ngồi nên vui lòng kiểm tra trước xem còn trống bao nhiêu slot trước khi chuyển tiền, bằng cách dùng lệnh "**slot**" và nhập mã sự kiện (vd: 1047) để xem
+
+<img src="/images/loathe/loathe-dlus-3.jpg" alt="Step 3" width="720" height="560">
+
+►
+
+Bước 4: nếu còn trống chỗ, vui lòng thanh toán (với 1 trong các phương thức bên dưới) và tiếp theo dùng lệnh "**register**" với bot để gửi screenshot giao dịch
+
+<img src="/images/loathe/loathe-dlus-4.jpg" alt="Step 4" width="800" height="647">
+
+►
+
+🙋🏻‍♀️ Sau đó chỉ cần chờ tụi mình duyệt đơn hàng của bạn nhé.
 
 ### Thông tin chuyển khoản
 
