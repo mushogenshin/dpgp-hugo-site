@@ -10,12 +10,29 @@ draft: false
 
 ---
 
-| Buổi     | Ghi chú              | Mẫu        | Thời gian        | Địa điểm                | Giá  | Feedback | Nude |
-|----------|----------------------|------------|------------------|-------------------------|------|----------|------|
-| **1048** | Thử thêm cái mới     | ?          | 2pm CN 2/3       | Thông báo sau (Sài Gòn) | -    | ✅        | ?    |
-| **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅        | ✅    |
+{{< rawhtml >}}
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color:rgb(241, 109, 109);
+    }
+</style>
 
----
+| Buổi     | Ghi chú              | Mẫu        | Thời gian        | Địa điểm                | Giá  | Feedback | Art |
+|----------|----------------------|------------|------------------|-------------------------|------|----------|-----|
+| **1048** | Thử thêm cái mới     | ?          | 2pm CN 2/3       | Thông báo sau (Sài Gòn) | -    | ✅        | ?   |
+| **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅        | ✅   |
+
+{{< /rawhtml >}}
+
 
 ### Thông tin chuyển khoản
 
