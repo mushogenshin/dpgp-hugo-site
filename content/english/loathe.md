@@ -92,5 +92,6 @@ Phần nội dung chuyển khoản: đã có request với bot nên ghi gì khô
 
 Hẹn gặp các bạn ở buổi vẽ!
 
-"Nhà 10": 162/10 Cao Thắng, P11, quận 10
-Cho buổi 1047, nếu cần có thể liên lạc: TinhAnh () hoặc Huệ (0988 47 82 74)
+- "Nhà 10": 162/10 Cao Thắng, P11, quận 10.
+
+- Cho buổi 1047, nếu cần có thể liên lạc: TinhAnh () hoặc Huệ (0988 47 82 74)
