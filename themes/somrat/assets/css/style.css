@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
   height: 100%;
 }
 
@@ -19,7 +19,6 @@ body {
   color: inherit;
   border-bottom: 1px dashed #212121;
 }
-
 
 .content a:hover {
   border-bottom: 1px solid #212121;
@@ -45,7 +44,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2B2C2F;
+  background-color: #2b2c2f;
   z-index: 99999;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -62,7 +61,7 @@ body {
   display: none;
 }
 
-.square-spin>div {
+.square-spin > div {
   width: 80px;
   height: 80px;
 }
@@ -137,7 +136,7 @@ body {
 .scroll-up.hvr-icon-up:before {
   content: "\f077";
   font-size: 15px;
-  font-family: 'Bai Jamjuree';
+  font-family: "Bai Jamjuree";
   font-weight: 900;
   height: 30px;
   width: 30px;
@@ -214,7 +213,7 @@ body {
 
 .header .slider::after,
 .header::after {
-  content: '';
+  content: "";
   position: absolute;
   right: 0;
   top: 0;
@@ -223,7 +222,7 @@ body {
   margin: auto;
   width: 100%;
   height: 100%;
-  background: rgba(50, 50, 50, .6);
+  background: rgba(50, 50, 50, 0.6);
   z-index: 9;
 }
 
@@ -282,7 +281,7 @@ body {
   height: 100%;
   color: white;
   font-size: 30px;
-  font-family: 'Bai Jamjuree', sans-serif !important;
+  font-family: "Bai Jamjuree", sans-serif !important;
   font-weight: 300;
   z-index: 10;
 }
@@ -302,7 +301,7 @@ body {
   display: inline-block;
 }
 
-.typist-blink>.selectedText {
+.typist-blink > .selectedText {
   display: none;
 }
 
@@ -312,7 +311,7 @@ body {
   margin-top: 18px;
   text-decoration: none;
   color: white;
-  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 19px;
   font-weight: 500;
   border: 2px solid white;
@@ -327,7 +326,7 @@ body {
   border: 2px solid #6f6f6f;
 }
 
-input+label {
+input + label {
   position: absolute;
   top: 40px;
   right: 40px;
@@ -336,7 +335,7 @@ input+label {
   z-index: 12;
 }
 
-.no-js input+label {
+.no-js input + label {
   display: none;
 }
 
@@ -344,7 +343,7 @@ input+label {
   display: none;
 }
 
-input+label span {
+input + label span {
   position: absolute;
   width: 100%;
   height: 4px;
@@ -353,19 +352,19 @@ input+label span {
   left: 0;
   display: block;
   background: #fff;
-  -webkit-transition: .5s;
-  transition: .5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 
 .navigation-icon:hover .burger-menu span {
   background: #6f6f6f;
 }
 
-input+label span:first-child {
+input + label span:first-child {
   top: 0px;
 }
 
-input+label span:last-child {
+input + label span:last-child {
   top: 19px;
 }
 
@@ -373,19 +372,19 @@ label:hover {
   cursor: pointer;
 }
 
-input:checked+label span {
+input:checked + label span {
   opacity: 0;
   top: 50%;
   background: #6f6f6f;
 }
 
-input:checked+label span:first-child {
+input:checked + label span:first-child {
   opacity: 1;
   -webkit-transform: rotate(405deg);
   transform: rotate(405deg);
 }
 
-input:checked+label span:last-child {
+input:checked + label span:last-child {
   opacity: 1;
   -webkit-transform: rotate(-405deg);
   transform: rotate(-405deg);
@@ -402,7 +401,7 @@ input:checked+label span:last-child {
   display: none;
   z-index: 11;
   color: #fff;
-  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -414,7 +413,7 @@ input:checked+label span:last-child {
 }
 
 .fullscreen-nav-container::after {
-  content: '';
+  content: "";
   position: absolute;
   right: 0;
   top: 0;
@@ -506,7 +505,7 @@ input:checked+label span:last-child {
 
 .fullscreen-nav-holder a {
   color: white;
-  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 20px;
   font-weight: 700;
   text-decoration: none;
@@ -776,8 +775,8 @@ input:checked+label span:last-child {
   background: #6f6f6f;
   position: relative;
   top: 4px;
-  -webkit-transition: .5s;
-  transition: .5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 
 .mobile-menu-nav span:first-child {
@@ -894,11 +893,11 @@ input:checked+label span:last-child {
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
   filter: grayscale(100%);
-  -webkit-transition: all linear .3s;
-  -moz-transition: all linear .3s;
-  -ms-transition: all linear .3s;
-  -o-transition: all linear .3s;
-  transition: all linear .3s;
+  -webkit-transition: all linear 0.3s;
+  -moz-transition: all linear 0.3s;
+  -ms-transition: all linear 0.3s;
+  -o-transition: all linear 0.3s;
+  transition: all linear 0.3s;
 }
 
 .about-me-images img:hover {
@@ -913,7 +912,7 @@ input:checked+label span:last-child {
 .about-me .hvr-icon-hang:before {
   content: "\f0ab";
   position: absolute;
-  font-family: 'Bai Jamjuree';
+  font-family: "Bai Jamjuree";
   right: 8px;
   font-weight: 900;
   top: 6px;
@@ -960,7 +959,7 @@ ul.experience-chart li:after {
   border-radius: 50%;
   border: 2px solid #4d4d4d;
   background: #fff;
-  content: '';
+  content: "";
   -webkit-transition: all 0.3s;
   transition: all 0.7s;
 }
@@ -1144,7 +1143,7 @@ ul.experience-chart h4 {
 }
 
 .overlay::before {
-  content: '';
+  content: "";
   position: absolute;
   right: 0;
   top: 0;
@@ -1272,7 +1271,7 @@ ul.experience-chart h4 {
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
-.show>.btn-primary.dropdown-toggle:focus {
+.show > .btn-primary.dropdown-toggle:focus {
   box-shadow: none !important;
 }
 
@@ -1285,7 +1284,7 @@ ul.experience-chart h4 {
 
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active,
-.show>.btn-primary.dropdown-toggle {
+.show > .btn-primary.dropdown-toggle {
   color: #fff;
   background-color: #6f6f6f !important;
   border-color: #6f6f6f !important;
@@ -1340,14 +1339,14 @@ ul.experience-chart h4 {
 
 .item-caption h2 {
   font-size: 32px;
-  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-weight: 700;
   padding-left: 13px;
 }
 
 .item-caption p {
   padding-left: 16px;
-  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-weight: 500;
 }
 
@@ -1386,7 +1385,7 @@ ul.experience-chart h4 {
   margin-top: 25px;
   text-decoration: none;
   color: #6f6f6f;
-  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
   font-size: 17px;
   font-weight: 500;
   border: 2px solid #6f6f6f;
@@ -1496,7 +1495,7 @@ ul.experience-chart h4 {
   background: #6f6f6f;
 }
 
-.owl-theme .owl-nav.disabled+.owl-dots {
+.owl-theme .owl-nav.disabled + .owl-dots {
   margin-top: 20px;
 }
 
@@ -1561,7 +1560,7 @@ ul.experience-chart h4 {
 }
 
 .contact:after {
-  content: '';
+  content: "";
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1635,7 +1634,7 @@ textarea.form-control::-webkit-input-placeholder,
 .hvr-icon-push:before {
   content: "\f1d8";
   right: 19px;
-  font-family: 'Bai Jamjuree';
+  font-family: "Bai Jamjuree";
   font-weight: 900;
 }
 
@@ -1744,7 +1743,7 @@ textarea.form-control::-webkit-input-placeholder,
   Start Header
 ----------------------------------*/
 
-@media(max-width: 550px) and (min-height: 501px) {
+@media (max-width: 550px) and (min-height: 501px) {
   .introduction {
     font-size: 45px;
     margin-bottom: 5px;
@@ -1762,7 +1761,6 @@ textarea.form-control::-webkit-input-placeholder,
     padding: 3px 12px;
   }
 }
-
 
 @media (min-width: 100px) and (max-width: 767px) {
   .fullscreen-nav-holder {
@@ -1792,13 +1790,13 @@ textarea.form-control::-webkit-input-placeholder,
   }
 }
 
-@media (min-width: 728px) and (max-height:470px) {
+@media (min-width: 728px) and (max-height: 470px) {
   .full-nav-container {
     margin-top: 20px;
   }
 }
 
-@media (min-width: 469px)and (max-width: 727px) and (max-height:500px) {
+@media (min-width: 469px) and (max-width: 727px) and (max-height: 500px) {
   .full-nav-container {
     margin-top: 20px;
   }
@@ -1825,7 +1823,6 @@ textarea.form-control::-webkit-input-placeholder,
 }
 
 @media (max-height: 535px) and (max-width: 468px) {
-
   .first-name,
   .last-name {
     display: inline-block;
@@ -1927,7 +1924,6 @@ textarea.form-control::-webkit-input-placeholder,
   .header .logo img {
     width: 185px;
   }
-
 }
 
 @media (max-width: 880px) {
@@ -1981,7 +1977,7 @@ textarea.form-control::-webkit-input-placeholder,
   }
 }
 
-@media(max-width: 468px) and (max-height: 440px) {
+@media (max-width: 468px) and (max-height: 440px) {
   .full-nav-container {
     margin-bottom: 30px;
   }
@@ -2047,7 +2043,7 @@ textarea.form-control::-webkit-input-placeholder,
   }
 }
 
-@media(min-width: 601px) {
+@media (min-width: 601px) {
   .mobile-menu-fix {
     display: none;
   }
@@ -2105,7 +2101,7 @@ textarea.form-control::-webkit-input-placeholder,
   }
 }
 
-@media (min-width:601px) and (max-width: 991px) {
+@media (min-width: 601px) and (max-width: 991px) {
   .about-me {
     padding: 125px 0px 35px 0px;
   }
@@ -2125,7 +2121,7 @@ textarea.form-control::-webkit-input-placeholder,
   Start Services
 ----------------------------------*/
 
-@media(min-width: 526px) and (max-width: 767px) {
+@media (min-width: 526px) and (max-width: 767px) {
   .services-icon img {
     width: 100%;
   }
@@ -2150,7 +2146,7 @@ textarea.form-control::-webkit-input-placeholder,
   }
 }
 
-@media (min-width:768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   .services {
     padding: 70px 0px 35px 0px;
   }
@@ -2177,7 +2173,7 @@ textarea.form-control::-webkit-input-placeholder,
    Start Testimonials
 ----------------------------------*/
 
-@media(max-width: 380px) {
+@media (max-width: 380px) {
   .single-testimonial p {
     width: 80%;
   }
@@ -2193,7 +2189,7 @@ textarea.form-control::-webkit-input-placeholder,
   }
 }
 
-@media (min-width:766px) and (max-width: 991px) {
+@media (min-width: 766px) and (max-width: 991px) {
   .testimonials {
     padding: 70px 0px 35px 0px;
   }
@@ -2237,7 +2233,7 @@ textarea.form-control::-webkit-input-placeholder,
   border: 1px solid;
   position: relative;
   z-index: 1;
-  transition: .2s ease;
+  transition: 0.2s ease;
 }
 
 .btn:hover,
@@ -2267,7 +2263,7 @@ textarea.form-control::-webkit-input-placeholder,
 .btn-outline-primary {
   background: transparent;
   color: #4d4d4d;
-  border-color: #2B2C2F;
+  border-color: #2b2c2f;
 }
 
 .btn-outline-primary:hover,
@@ -2282,37 +2278,36 @@ textarea.form-control::-webkit-input-placeholder,
 
 /* blog */
 
-.card{
+.card {
   border: 0;
   border-radius: 0;
 }
 
-.card-img-top{
+.card-img-top {
   border-radius: 0;
-  transition: .2s ease;
+  transition: 0.2s ease;
 }
 
-.card-body{
+.card-body {
   padding: 15px 0;
 }
 
-.card-title{
+.card-title {
   color: #6f6f6f;
 }
 
-.card-title:hover{
+.card-title:hover {
   color: #6f6f6f;
 }
 
-.card-img-wrapper{
+.card-img-wrapper {
   overflow: hidden;
   display: block;
 }
 
-.card:hover .card-img-top{
+.card:hover .card-img-top {
   transform: scale(1.2);
 }
-
 
 /* pagination */
 .pagination {
@@ -2344,9 +2339,9 @@ textarea.form-control::-webkit-input-placeholder,
 }
 
 .pagination .page-item.active .page-link {
-    background: #4d4d4d;
-    color: #fff;
-    border-color: #4d4d4d;
+  background: #4d4d4d;
+  color: #fff;
+  border-color: #4d4d4d;
 }
 
 /* tags */
@@ -2356,20 +2351,34 @@ textarea.form-control::-webkit-input-placeholder,
 
 /* widget */
 
-.widget{
+.widget {
   margin-bottom: 20px;
 }
 
-.widget-list a{
+.widget-list a {
   font-size: 18px;
   padding: 4px 0;
   display: block;
   color: #6f6f6f;
 }
 
-.widget-img{
+.widget-img {
   height: 70px;
   width: 85px;
   object-fit: cover;
   margin-right: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: rgb(241, 109, 109);
 }
