@@ -13,10 +13,10 @@ draft: false
 
 ---
 
-| Buổi     | Chủ đề               | Mẫu        | Thời gian        | Địa điểm                | Giá  | Sửa bài | Art | Max |
-|----------|----------------------|------------|------------------|-------------------------|------|---------|-----|-----|
-| **1048** | Thử thêm cái mới     | ?          | 2pm CN 2/3       | Thông báo sau (Sài Gòn) | -    | ✅       | ?   | -   |
-| **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅       | ✅   | 25  |
+| Buổi     | Chủ đề               | Mẫu        | Thời gian        | Địa điểm                | Giá  | Sửa bài | Nude | Max |
+|----------|----------------------|------------|------------------|-------------------------|------|---------|------|-----|
+| **1048** | Thử thêm cái mới     | ?          | 2pm CN 2/3       | Thông báo sau (Sài Gòn) | -    | ✅       | ?    | -   |
+| **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅       | ✅    | 25  |
 
 ---
 
@@ -79,13 +79,11 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 
 Đến số `098 847 8274`.
 
-<!-- ##### Áp dụng cho mọi hình thức chuyển tiền:
+##### Áp dụng cho mọi hình thức chuyển tiền:
 
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA00`), ví dụ:
+Phần nội dung chuyển khoản: đã có request với bot nên ghi gì không quan trọng nữa 😛
 
-`Pham Thi Khue khuepham908.gmail HAA00` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
-
---- -->
+---
 
 ![](/images/loathe/loathe-friends-4.jpg)
 ![](/images/loathe/loathe-friends-2.jpg)
@@ -93,3 +91,6 @@ Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của c
 ![](/images/loathe/loathe-friends-3.jpg)
 
 Hẹn gặp các bạn ở buổi vẽ!
+
+"Nhà 10": 162/10 Cao Thắng, P11, quận 10
+Cho buổi 1047, nếu cần có thể liên lạc: TinhAnh () hoặc Huệ (0988 47 82 74)
