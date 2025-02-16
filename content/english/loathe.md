@@ -34,14 +34,14 @@ Bước 1: tham gia [**server Discord của Dẫu Phải Giải Phẫu**](https:
 
 Bước 2: trong channel "bots", bắt chuyện riêng với "đầu lâu u sầu"
 
-<img src="/images/loathe/loathe-dlus-2.jpg" alt="Step 2" width="400" height="568">
+<img src="/images/loathe/loathe-dlus-2.jpg" alt="Step 2" width="800" height="458">
 
 
 ►
 
 Bước 3: vì có giới hạn chỗ ngồi nên vui lòng kiểm tra trước xem còn trống bao nhiêu slot trước khi chuyển tiền, bằng cách dùng lệnh "**slot**" và nhập mã sự kiện (vd: 1047) để xem
 
-<img src="/images/loathe/loathe-dlus-3.jpg" alt="Step 3" width="720" height="560">
+<img src="/images/loathe/loathe-dlus-3.jpg" alt="Step 3" width="800" height="479">
 
 ►
 
