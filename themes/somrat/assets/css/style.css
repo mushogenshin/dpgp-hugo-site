@@ -2369,16 +2369,30 @@ textarea.form-control::-webkit-input-placeholder,
   margin-right: 10px;
 }
 
-table {
+.loatheSession {
   width: 100%;
   border-collapse: collapse;
 }
-th,
-td {
+.loatheSession th,
+.loatheSession td {
   border: 1px solid black;
   padding: 8px;
   text-align: left;
 }
-th {
+.loatheSession th {
   background-color: rgb(241, 109, 109);
+}
+
+.haaSession {
+  width: 100%;
+  border-collapse: collapse;
+}
+.haaSession th,
+.haaSession td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+.haaSession th {
+  background-color: rgb(109, 241, 160);
 }

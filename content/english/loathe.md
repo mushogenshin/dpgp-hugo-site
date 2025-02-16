@@ -13,10 +13,15 @@ draft: false
 
 ---
 
+
+<div class="loatheSession">
+
 | Buổi     | Chủ đề               | Mẫu        | Thời gian        | Địa điểm                | Giá  | Sửa bài | Nude | Max |
 |----------|----------------------|------------|------------------|-------------------------|------|---------|------|-----|
 | **1048** | Thử thêm cái mới     | ?          | 2pm CN 2/3       | Thông báo sau (Sài Gòn) | -    | ✅       | ?    | -   |
 | **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | "Nhà 10" (HD bên dưới)  | 350k | ✅       | ✅    | 25  |
+
+</div>
 
 ---
 
@@ -94,4 +99,29 @@ Hẹn gặp các bạn ở buổi vẽ!
 
 - "**Nhà 10**": 162/10 Cao Thắng, P11, quận 10.
 
-- Cho buổi 1047, nếu cần có thể liên lạc: TinhAnh (`093 787 1995`) hoặc Huệ (`0988 47 82 74`)
+- Cho buổi 1047, nếu cần có thể liên lạc: TinhAnh (`093 787 1995`) hoặc Huệ (`098 847 8274`)
+
+---
+
+## 🧌 Các buổi học cấp tốc: kỹ thuật vẽ Gesture + nắm giải phẫu
+
+##### 👀 Hãy lưu ý mã số của buổi học mà bạn muốn tham gia
+
+Bạn có thể chọn chỉ học 1 buổi đầu, hoặc 2 buổi đầu, hoặc cả 3 buổi.
+
+<div class="haaSession">
+
+| Buổi     | Nội dung Anatomy       | Thời gian       | Địa điểm  | Giá   | Sửa bài | Max |
+|----------|------------------------|-----------------|-----------|-------|---------|-----|
+| **2396** | Hệ cơ torso            | 9am-1pm T7 22/2 | "Nhà 112" | 1.5tr | ✅       | 12  |
+| **2397** | Cơ tay, cơ chân        | 9am-1pm T7 1/3  | nt        | 1.5tr | ✅       | 12  |
+| **2398** | Cơ tay, cơ chân (tiếp) | 9am-1pm T7 8/3  | nt        | 1.5tr | ✅       | 12  |
+
+---
+
+#### Cách đăng ký: cũng thông qua bé DLUS (Discord bot) như bên trên
+
+- "**Nhà 112**": B112/20 Bạch Đằng, P2, quận Tân Bình
+- Cho các lớp `2396`-`2397`-`2398`, nếu cần có thể liên lạc: Huệ (`098 847 8274`)
+
+</div>
