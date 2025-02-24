@@ -1,5 +1,5 @@
 ---
-title: "Đăng kí cho workshop Sọ"
+title: "Đăng kí cho workshop Sọ tự học"
 date: 2024-03-20T12:00:00
 draft: false
 ---
@@ -9,12 +9,6 @@ draft: false
 #### Format: Tự học online 100%, 💻 sinh viên tự xem bài giảng 🪄
 
 ---
-
-#### 💣 Cách học:
-
-- 📍 Workshop bao gồm 2 buổi, buổi 1 sẽ được unlocked vào 20/3/2024, và buổi 2 sẽ được unlocked sau đó một tuần (27/3).
-- 📍 sau khi xem bài học sinh có thể tự thực hành (vẽ mô hình sọ hoặc chân dung) và gửi vào nhóm Discord, (lưu ý là feedback sẽ không có ngay lập tức, mà sau đó từ 3 đến 10 ngày, tuỳ khối lượng người học)
-- 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), hoặc bài vẽ 2D (digital) (không khuyến khích bài tập 3D ở thời điểm này)
 
 #### 💣 Học phí:
 
