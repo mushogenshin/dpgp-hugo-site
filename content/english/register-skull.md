@@ -6,7 +6,7 @@ draft: false
 
 ## 😌 All About The Skull
 
-#### Format: Tự học online, 💻 có nhóm Discord để đặt câu hỏi và được góp ý 🪄
+#### Format: Tự học online 100%, 💻 sinh viên tự xem bài giảng 🪄
 
 ---
 
@@ -19,23 +19,15 @@ draft: false
 #### 💣 Học phí:
 
 - 📍 2.500.000 VNĐ
-- 📍 Được giảm giá 20% từ đây đến 1/6/2024, còn 2.000.000 VNĐ
-- 📍 Sau khi tham gia workshop này, nếu tiếp theo bạn học lớp Facial Anatomy (khoá FAP03 khoảng tháng 6/2024) sẽ được giảm 1.000.000 học phí (👉 deal siêu hời)
+- 📍 Đang giảm giá 50% từ đây đến 3/3/2025, còn 1.250.000 VNĐ
 
-#### 💣 Đăng ký:
+#### 💣 Đăng ký: dùng mã sản phẩm là [200](https://school.dauphaigiaiphau.wtf/buy)
 
-- Đóng học phí
-- Login vào [website](https://dpgp-techart.web.app)
-- Vào Dashboard bấm Migrate
-- Sau 3 bước trên thì vui lòng nhắn [Messenger cho Hoan](https://www.facebook.com/hoandpgp) để được hỗ trợ.
-
----
+![dlus-guide](https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/login-instructions%2Fdlus-guide.jpg?alt=media&token=e329c85f-6dfc-4789-9ce6-8aaff23c5a13)
 
 ### Thông tin chuyển khoản
 
-##### ⚠️ Quan trọng: các tài khoản cũ của Hoan đã không còn hoạt động!
-
-Vui lòng chuyển đến tài khoản ngân hàng sau:
+Vui lòng chuyển đến một trong các tài khoản sau:
 
 ##### ➡️ **Techcombank** (ngân hàng Kỹ Thương):
 
@@ -52,12 +44,6 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 ##### ➡️ Hoặc **MoMo**
 
 Đến số `098 847 8274`.
-
-##### Áp dụng cho mọi hình thức chuyển tiền:
-
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`SKUL_2019_all`), ví dụ:
-
-`Pham Thi Khue khuepham908.gmail SKUL_2019_all` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 

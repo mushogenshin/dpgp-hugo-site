@@ -1,68 +1,33 @@
 ---
-title: "Đăng kí cho khoá ACA03 (khai giảng 10/3/2024)"
+title: "Đăng kí cho khoá Animal Anatomy tự học"
 date: 2023-12-18T08:42:49+07:00
 draft: false
 ---
 
 ## 😌 Animal & Creature Anatomy
 
-#### Format: Học online, 💻 có Live QnA sau đó sinh viên tự xem bài giảng, có sửa bài hàng tuần 🪄
+#### Format: Tự học online 100%, 💻 sinh viên tự xem bài giảng và xem sửa bài của các khoá trước 🪄
 
 ---
 
-#### 💣 Học theo 3 module từ căn bản đến nâng cao
+#### 💣 Học theo 2 module từ căn bản đến nâng cao
 
-- 📍 mỗi module kéo dài 4-6 tuần
+- 📍 mỗi module kéo dài 4-8 tuần
 - 📍 có thể chỉ học những module đầu nếu không có nhu cầu đào sâu hơn (nhưng tham gia các module sau đòi hỏi phải tham gia các module trước)
 - 📍 tài liệu trọn đời
-- 📍 bài tập linh hoạt: có thể nộp bài vẽ tay (giấy bút), bài vẽ 2D (digital), hoặc bài sculpt 3D (digital), hoặc cả ba 🙂
-- 📍 giữa các module có 1 tuần giải lao
-
-#### 💣 Trong mỗi tuần:
-
-- 🔅 cả lớp dự buổi Live QnA 60' để thảo luận (10:00 đến 11:00 AM Chủ Nhật, giờ VN)
-- 🔅 học viên sau đó có một tuần để **xem bài giảng qua video thâu sẵn**
-- 🔅 có bài tập giao về để thực hành — vì bắt buộc phải có thực hành thì mới có thể tiến bộ
-- 🔅 có sửa bài chung cho cả lớp (2D lẫn 3D)
-- 🔅 thầy, trò, trợ giảng, và các bạn đồng môn cùng trao đổi bằng chat qua Discord
-- 🔅 bài giảng <u>được unlock hàng tuần</u> (chứ không có mở hàng loạt, tránh hiện tượng chỉ binge mà không thực hành)
 
 #### 💣 Học phí:
 
 - 📍 Module #1: 4.200.000 VNĐ
 - 📍 Module #2: 6.400.000 VNĐ
-- 📍 Module #3: 8.000.000 VNĐ
 
-#### 💣 Lịch học:
+#### 💣 Đăng ký: dùng mã sản phẩm là 400 hoặc 404 ([tuỳ theo phần bạn mua](https://school.dauphaigiaiphau.wtf/buy))
 
-- 👾 Module 1: bốn ngày Chủ Nhật: 10/3 đến 31/3
-- 👾 Module 2: sáu ngày Chủ Nhật: 7/4 đến 19/5
-- 👾 Module 3 (dự kiến): sáu ngày Chủ Nhật: 2/6 đến 7/7
-
-#### 💣 Đăng ký bằng 2 bước:
-
-1. vui lòng điền Google form bên dưới
-2. chuyển khoản học phí (vui lòng kiểm tra kĩ thông tin chuyển khoản)
-
-##### Lưu ý:
-
-💔 Nếu chỉ thực hiện bước 1 thì là **vẫn chưa hoàn tất đăng ký**.
-
----
-
-{{< rawhtml >}}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTbrKOgNwnYZp1UtAlhnv6FK2PmUDKjoeaMjIjtrVnFAvL_g/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-{{< /rawhtml >}}
-
----
+![dlus-guide](https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/login-instructions%2Fdlus-guide.jpg?alt=media&token=e329c85f-6dfc-4789-9ce6-8aaff23c5a13)
 
 ### Thông tin chuyển khoản
 
-##### ⚠️ Quan trọng: các tài khoản cũ của Hoan đã không còn hoạt động!
-
-Vui lòng chuyển đến tài khoản ngân hàng sau:
+Vui lòng chuyển đến một trong các tài khoản sau:
 
 ##### ➡️ **Techcombank** (ngân hàng Kỹ Thương):
 
@@ -79,12 +44,6 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 ##### ➡️ Hoặc **MoMo**
 
 Đến số `098 847 8274`.
-
-##### Áp dụng cho mọi hình thức chuyển tiền:
-
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`ACA03_trackB`), ví dụ:
-
-`Pham Thi Khue khuepham908.gmail ACA03_trackB` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 
@@ -105,12 +64,11 @@ Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của c
 - xây dựng nhãn quan để khắc phục những lỗi sai không đáng có khi dựng hình mammal (loài muông, hay là động vật hữu nhũ)
 - hiểu biết sơ bộ về hệ thống cơ bắp của các chi
 - tìm hiểu thêm về vận động và "form follows function" (công năng quy định hình thể)
-- thực hiện bài tổng kết giai đoạn
 
-##### 📍 Kết thúc module 3 (dự kiến):
+<!-- ##### 📍 Kết thúc module 3 (dự kiến):
 
 - tìm hiểu các loài khác: chim, bò sát, khủng long
 - cách tiếp cận các sinh vật tưởng tượng: quái vật, các hình thái lai tạp
 - tìm hiểu sâu về hệ thống cơ bắp, các hệ thống phụ
 - thực hiện bài tổng kết giai đoạn
-- góp ý về phần figurative (animal) cho portfolio của bạn
+- góp ý về phần figurative (animal) cho portfolio của bạn -->

@@ -29,30 +29,13 @@ draft: false
 - 📍 đóng luôn cho 4 module thì được giảm 10%
 - 📍 học sinh tự trừ phần giảm vào khi thanh toán.
 
-#### 💣 Đăng ký bằng 2 bước:
+#### 💣 Đăng ký: dùng mã sản phẩm là 99 hoặc 101 hoặc 103 ([tuỳ theo phần bạn mua](https://school.dauphaigiaiphau.wtf/buy))
 
-1. vui lòng điền Google form bên dưới
-2. chuyển khoản học phí (vui lòng kiểm tra kĩ thông tin chuyển khoản)
-
-##### Lưu ý:
-
-💔 Nếu chỉ thực hiện bước 1 thì là **vẫn chưa hoàn tất đăng ký**.
-
----
-
-{{< rawhtml >}}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQcX_UPu_CHBN-vvPHlE1Vt4ZvWASSa0goOUZE7FQYWU2y5g/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-{{< /rawhtml >}}
-
----
+![dlus-guide](https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/login-instructions%2Fdlus-guide.jpg?alt=media&token=e329c85f-6dfc-4789-9ce6-8aaff23c5a13)
 
 ### Thông tin chuyển khoản
 
-##### ⚠️ Quan trọng: các tài khoản cũ của Hoan đã không còn hoạt động!
-
-Vui lòng chuyển đến tài khoản ngân hàng sau:
+Vui lòng chuyển đến một trong các tài khoản sau:
 
 ##### ➡️ **Techcombank** (ngân hàng Kỹ Thương):
 
@@ -69,12 +52,6 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 ##### ➡️ Hoặc **MoMo**
 
 Đến số `098 847 8274`.
-
-##### Áp dụng cho mọi hình thức chuyển tiền:
-
-Phần nội dung chuyển khoản xin ghi rõ **họ tên và email** của các bạn kèm **mã khoá học** (`HAA00`), ví dụ:
-
-`Pham Thi Khue khuepham908.gmail HAA00` (nếu chuyển qua ngân hàng thì nội dung không cần dấu `@`, và có thể bỏ bớt các ký tự đặc biệt nếu ngân hàng không cho phép).
 
 ---
 
