@@ -17,11 +17,13 @@ draft: false
 
 #### 💣 Đăng ký: dùng mã sản phẩm là [200](https://school.dauphaigiaiphau.wtf/buy)
 
-![dlus-guide](https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/login-instructions%2Fdlus-guide.jpg?alt=media&token=e329c85f-6dfc-4789-9ce6-8aaff23c5a13)
+Bạn vui lòng vào [**Discord của Dẫu Phải Giải Phẫu**](https://discord.gg/XcjvTRkn8T) và làm theo các bước bên dưới.
+
+<img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/login-instructions%2Fdlus-guide.jpg?alt=media&token=e329c85f-6dfc-4789-9ce6-8aaff23c5a13" alt="Registration guide" width="597" height="900">
 
 ### Thông tin chuyển khoản
 
-Vui lòng chuyển đến một trong các tài khoản sau:
+Có thể chuyển đến một trong các tài khoản sau:
 
 ##### ➡️ **Techcombank** (ngân hàng Kỹ Thương):
 
