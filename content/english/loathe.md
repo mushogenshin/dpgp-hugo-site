@@ -16,10 +16,10 @@ draft: false
 
 <div class="loatheSession">
 
-| Buổi     | Chủ đề               | Mẫu        | Thời gian        | Địa điểm               | Giá  | Sửa bài | Nude | Max |
-|----------|----------------------|------------|------------------|------------------------|------|---------|------|-----|
-| **1048** | Mày mò & thử nghiệm  | ?          | 2pm-5:30 CN 9/3  | "Nhà 10" (HD bên dưới) | 350k | ✅       | ?    | 25  |
-| **1047** | Quay lại sau rất lâu | 1 nam 1 nữ | 2pm-5:30 CN 23/2 | nt                     | nt   | ✅       | ✅    | nt  |
+| Buổi     | Chủ đề                | Mẫu           | Thời gian        | Địa điểm    | Giá  | Sửa bài | Nude | Max |
+|----------|-----------------------|---------------|------------------|-------------|------|---------|------|-----|
+| **1048** | Ngày tàn của bạo chúa | "ÔNG TÂY MẬP" | 2pm-5:30 CN 9/3  | THINK SPACE | 350k | ✅       | ✅    | 40  |
+| **1047** | Quay lại sau rất lâu  | 1 nam 1 nữ    | 2pm-5:30 CN 23/2 | "Nhà 10"    | nt   | ✅       | ✅    | 25  |
 
 </div>
 
@@ -54,7 +54,7 @@ Bước 4: nếu còn trống chỗ, vui lòng thanh toán (với 1 trong các p
 
 <img src="/images/loathe/loathe-dlus-4a.jpg" alt="Step 4" width="800" height="647">
 
-ví dụ:
+ví dụ (buổi ngày 9/3 mã là **1048**):
 
 <img src="/images/loathe/loathe-dlus-4b.jpg" alt="Step 4" width="720" height="289">
 
@@ -97,6 +97,6 @@ Phần nội dung chuyển khoản: đã có request với bot nên ghi gì khô
 
 Hẹn gặp các bạn ở buổi vẽ!
 
-- "**Nhà 10**": 162/10 Cao Thắng, P11, quận 10.
+- "**THINK SPACE**": [116 Nguyễn Văn Thủ, Đa Kao, Q.1](https://g.co/kgs/aFrsp53)
 
-- Cho buổi 1047-1048, nếu cần có thể liên lạc: TinhAnh (`093 787 1995`) hoặc Huệ (`098 847 8274`)
+- Cho buổi 1048, nếu cần có thể liên lạc: Huệ (`098 847 8274`)
