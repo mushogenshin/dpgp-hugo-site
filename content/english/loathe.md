@@ -6,6 +6,8 @@ draft: false
 
 ## 👯‍♀️ Đến Vẽ Life Drawing Chung!
 
+##### Giảm 100k cho những bạn đã đến hôm 1047
+
 ![](/images/loathe/loathe-friends-5.jpg)
 ![](/images/loathe/loathe-friends-1.jpg)
 
@@ -42,15 +44,15 @@ Bước 2: trong channel "bots", bắt chuyện riêng với "đầu lâu u sầ
 <img src="/images/loathe/loathe-dlus-2.jpg" alt="Step 2" width="800" height="458">
 
 
-►
+<!-- ►
 
 Bước 3: vì có giới hạn chỗ ngồi nên vui lòng kiểm tra trước xem còn trống bao nhiêu slot trước khi chuyển tiền, bằng cách dùng lệnh "**slot**" và nhập mã sự kiện (vd: 1047) để xem
 
-<img src="/images/loathe/loathe-dlus-3.jpg" alt="Step 3" width="800" height="479">
+<img src="/images/loathe/loathe-dlus-3.jpg" alt="Step 3" width="800" height="479"> -->
 
 ►
 
-Bước 4: nếu còn trống chỗ, vui lòng thanh toán (với 1 trong các phương thức bên dưới) và tiếp theo dùng lệnh "**register**" với bot để gửi screenshot giao dịch
+Bước 3: vui lòng thanh toán (với 1 trong các phương thức bên dưới) và tiếp theo dùng lệnh "**register**" với bot để gửi screenshot giao dịch
 
 <img src="/images/loathe/loathe-dlus-4a.jpg" alt="Step 4" width="800" height="647">
 
@@ -84,9 +86,9 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 
 Đến số `098 847 8274`.
 
-##### Áp dụng cho mọi hình thức chuyển tiền:
+<!-- ##### Áp dụng cho mọi hình thức chuyển tiền:
 
-Phần nội dung chuyển khoản: đã có request với bot nên ghi gì không quan trọng nữa 😛
+Phần nội dung chuyển khoản: đã có request với bot nên ghi gì không quan trọng nữa 😛 -->
 
 ---
 
