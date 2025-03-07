@@ -6,14 +6,30 @@ draft: false
 
 ## 👯‍♀️ Đến nghe và được truyền cảm hứng để làm việc, hoặc để theo đuổi tìm tòi có định hướng!
 
-Bạn điền form bên dưới nhé
+Buổi sự kiện không có tính phí, bạn điền form bên dưới để đăng ký nhé
 
 {{< rawhtml >}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNrxnLfWGvIr9WCxmi4_A4Fqg5eQfjLMxNfVSiTxGaQckuxg/viewform?embedded=true" width="640" height="621" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {{< /rawhtml >}}
 
+---
+
+### Nội dung
+
+<ol>
+<li>Người trẻ nên chọn gì để làm?</li>
+<li>Khi là người có tham vọng, có những cái giá nào đi kèm mà ta nên ý thức đến từ trước, càng sớm càng tốt?</li>
+<li>Trên hành trình nhiều trở ngại, 5 phẩm chất nào nên trau dồi để vẫn đạt được thành công?</li>
+<li>Nên nghĩ gì mỗi khi có cảm giác tất cả những gì cần làm muốn làm đã có người ta làm xong xuôi cả rồi?</li>
+<li>Vì sao có những người gian dối trên con đường hành nghề?</li>
+<li>Cái bẫy của "làm dáng", "bày đặt", "làm màu", "thể hiện", có thật sự có những hiện tượng đó không?</li>
+<li>Những gì nên làm ngay khi còn trẻ, những gì nên tận dụng khi đã không còn trẻ?</li>
+</ol>
+
 #### Thời gian
 Từ 1:00 chiều đến 2:30 Chủ Nhật 9/3
+
+**Lưu ý:** 😱😱😱 không nên đến trễ, nên có mặt trước giờ bắt đầu 15-20', đặc biệt là vì hội trường có giới hạn chỗ ngồi, ai tới trễ quá hoặc hết chỗ thì tụi mình không thể cho vào.
 
 #### Địa điểm
 
