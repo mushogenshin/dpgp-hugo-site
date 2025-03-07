@@ -33,6 +33,8 @@ draft: false
 
 Bạn vui lòng vào [**Discord của Dẫu Phải Giải Phẫu**](https://discord.gg/XcjvTRkn8T) và làm theo các bước bên dưới.
 
+<!-- https://youtu.be/BWdzCgT746Y -->
+
 <img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/login-instructions%2Fdlus-guide.jpg?alt=media&token=e329c85f-6dfc-4789-9ce6-8aaff23c5a13" alt="Registration guide" width="597" height="900">
 
 ### Thông tin chuyển khoản
