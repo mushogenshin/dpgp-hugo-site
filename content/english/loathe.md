@@ -20,7 +20,7 @@ draft: false
 
 | Buổi     | Chủ đề                | Mẫu           | Thời gian        | Địa điểm    | Giá  | Sửa bài | Nude | Max |
 |----------|-----------------------|---------------|------------------|-------------|------|---------|------|-----|
-| **1048** | Ngày tàn của bạo chúa | "ÔNG TÂY MẬP" | 2pm-5:30 CN 9/3  | THINK SPACE | 350k | ✅       | ✅    | 40  |
+| **1048** | Ngày tàn của bạo chúa | "ÔNG TÂY MẬP" | 3pm-6:00 CN 9/3  | THINK SPACE | 350k | ✅       | ✅    | 40  |
 | **1047** | Quay lại sau rất lâu  | 1 nam 1 nữ    | 2pm-5:30 CN 23/2 | "Nhà 10"    | nt   | ✅       | ✅    | 25  |
 
 </div>
@@ -112,4 +112,5 @@ Hẹn gặp các bạn ở buổi vẽ!
 
 
 
-- Cho buổi 1048, nếu cần có thể liên lạc: Huệ (`098 847 8274`)
+- Cho buổi 1048, nếu cần có thể liên lạc: Huệ (`098 847 8274`) hoặc Minh Hoàng (`097 737 3235`)
+
