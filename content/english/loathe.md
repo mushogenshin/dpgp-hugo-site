@@ -6,7 +6,9 @@ draft: false
 
 ## 👯‍♀️ Đến Vẽ Life Drawing Chung!
 
+##### Giảm 50k cho cựu học viên của DPGP
 ##### Giảm 100k cho những bạn đã đến hôm 1047
+(không áp dụng nhiều loại giảm giá cùng lúc)
 
 ![](/images/loathe/loathe-friends-5.jpg)
 ![](/images/loathe/loathe-friends-1.jpg)
