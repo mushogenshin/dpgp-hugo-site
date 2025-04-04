@@ -6,8 +6,11 @@ draft: false
 
 <img style="display: block; margin: 0 auto;" src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/posters%2Fgamedev-survey-no-header-small.jpeg?alt=media&token=8276c2dc-dd63-4d14-a47d-e92e0b7758b3" width="500">
 
-<p style="text-align: center">Credit: <a href="https://www.facebook.com/ca.tinhanh" target="_blank"
->Mèo Chill</a> giữa setdress cho <a href="https://www.facebook.com/loatheAtelier/" target="_blank">Loathe</a></p>
+<p style="text-align: center">
+Credit: <a href="https://www.facebook.com/ca.tinhanh" target="_blank"
+>Mèo Chill</a> giữa setdress cho <a href="https://www.facebook.com/loatheAtelier/" target="_blank">Loathe</a>
+<br>Poster vẽ bởi <a href="https://instagram.com/rkxg.rkxg" target="_blank">rkxg</a>
+</p>
 
 ## 🎮 GameDev từ đầu chí cuối (cho Artists) - Mỗi người 1 game
 
