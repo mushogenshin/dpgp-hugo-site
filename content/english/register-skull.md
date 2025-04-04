@@ -27,9 +27,9 @@ Có thể chuyển đến một trong các tài khoản sau:
 
 ##### ➡️ **Techcombank** (ngân hàng Kỹ Thương):
 
-Nguyễn Thị Bích Huệ
+Nguyễn Trọng Hoan
 
-Mã số TK: `19028343424011`
+Mã số TK: `19032905704011`
 
 Chi nhánh Tân Sơn Nhất (Tân Bình)
 
