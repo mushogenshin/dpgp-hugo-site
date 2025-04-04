@@ -13,10 +13,10 @@ draft: false
 
 ---
 
-##### 👉👉👉 Hiện tại khoá chưa bắt đầu. Vì thế giới game rất rộng, Hoan cần thăm dò ý kiến, nhu cầu, mong muốn, định hướng của các bạn. Nếu bạn hứng thú thì xin điền đơn để Hoan hình dung được rõ và xây dựng tổ chức nội dung tốt hơn nhé.
+##### 👉👉👉 Hiện tại khoá chưa bắt đầu. Vì thế giới game rất rộng, Hoan cần thăm dò ý kiến, nhu cầu, mong muốn, định hướng của các bạn. Nếu bạn hứng thú thì xin điền khảo sát để Hoan hình dung được rõ và xây dựng tổ chức nội dung tốt hơn nhé.
 
 <br>
 
 {{< rawhtml>}}
-<iframe style="display: block; margin: 0 auto;" src="https://docs.google.com/forms/d/e/1FAIpQLScsTxDH_ZnGNKJSTwVIiH2MjXAGIGl0F6H79-FyFC9tGsqcaw/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe style="display: block; margin: 0 auto;" src="https://docs.google.com/forms/d/e/1FAIpQLScsTxDH_ZnGNKJSTwVIiH2MjXAGIGl0F6H79-FyFC9tGsqcaw/viewform?embedded=true" width="640" height="1650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {{< /rawhtml>}}
