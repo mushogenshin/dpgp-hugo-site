@@ -13,7 +13,7 @@ draft: false
 #### 💣 Học phí:
 
 - 📍 2.500.000 VNĐ
-- 📍 Đang giảm giá 50% từ đây đến 3/3/2025, còn 1.250.000 VNĐ
+- 📍 Đang giảm giá 50%, còn 1.250.000 VNĐ
 
 #### 💣 Đăng ký: dùng mã sản phẩm là [200](https://school.dauphaigiaiphau.wtf/buy)
 
