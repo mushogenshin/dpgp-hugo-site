@@ -69,13 +69,15 @@ Chi nhánh Tân Sơn Nhất (Tân Bình)
 - Hiểu hơn về chuyển động của hàm, của đầu, và nhãn cầu
 - Các phương pháp phổ biến để dựng hình đầu người
 
+<br>
 
 <img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/student-works%2FSKUL_2019%2Fskull-07.jpg?alt=media&token=6b340075-af2c-478e-a159-17fc606bf1d8" width="600">
 <img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/student-works%2FSKUL_2019%2Fskull-08.jpg?alt=media&token=bf20208b-2da8-4d33-917c-dbfa391f6002" width="600">
-<img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/student-works%2FSKUL_2019%2Fskull-09.jpg?alt=media&token=f7e3c70d-9551-4374-b132-a5a8e5f83928" width="600">
-<img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/student-works%2FSKUL_2019%2Fskull-10.jpg?alt=media&token=fd8de6a0-37b4-4f06-a033-88739d385235" width="600">
-
-
 <img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/student-works%2FSKUL_2019%2Fskull-03.jpg?alt=media&token=b2ac67bf-af08-40db-9d3c-2dce8e85060f" width="600">
+<img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/student-works%2FSKUL_2019%2Fskull-10.jpg?alt=media&token=fd8de6a0-37b4-4f06-a033-88739d385235" width="600">
+<img src="https://firebasestorage.googleapis.com/v0/b/dpgp-techart.appspot.com/o/student-works%2FSKUL_2019%2Fskull-09.jpg?alt=media&token=f7e3c70d-9551-4374-b132-a5a8e5f83928" width="600">
+
+<br>
+<br>
 
 ##### Tất cả hình này là bài tập của học viên trong các <a href="https://dauphaigiaiphau.wtf/register-facial/" target="_blank">khoá chân dung</a> *sau khi* đã có hiểu biết tương đối về sọ
